@@ -1,54 +1,24 @@
 import { parse } from './vanillaes_csv/index.min.js'
 var instances = [];
-const FIELDS = ["Name", "vCPU", "RAM (GB)", "CPU Max Clock (GHz)", "On-demand Monthly", "Reserved Monthly"]
-const multipliers = {
-    None: {
-        file_count: 5,
-        file_size: 5,
-    },
-    Film: {
-        file_count: 5,
-        file_size: 20,
-    },
-    Gaming: {
-        file_count: 5,
-        file_size: 10,
-    },
-    Strategic: {
-        file_count: 10,
-        file_size: 1,
-    },
-    Semiconductor: {
-        file_count: 100,
-        file_size: 1,
-    },
-}
+const FIELDS = ["Name", "vCPUs", "RAM (GB)", "CPU Speed", "Monthly Cost (on demand)", "Notes", "Cloud"]
 
 var selections = {
-    vertical: "",
-    users: 5,
-    cloud: "AWS",
-    commits: 5,
-    frequency: 1,
-    file_size: 1,
-    file_count: 5,
+    cloud: "all",
+    min_vcpus: 0,
+    min_ram: 0,
 }
 
 $().ready(() => {
     console.log("Ready!");
     initialSetup();
     $("select").on("change", function () {
-        if (this.id == "vertical") {
-            selections["file_count"] = multipliers[this.value]["file_count"];
-            selections["file_size"] = multipliers[this.value]["file_size"];
-        }
         selections[this.id] = this.value;
         updateTable();
     });
 });
 
 function initialSetup() {
-    $.get("data/aws-ec2.csv", (result) => {
+    $.get("data/all_instances.csv", (result) => {
         //Get data from csv file
         let data = parse(result);
 
@@ -116,17 +86,11 @@ function createBody(table, items) {
 }
 
 function filterInstances() {
-    let ram_factor = selections.file_count * selections.users * selections.commits * selections.frequency
-    let cpu_factor = selections.file_size * selections.file_count * selections.users * selections.commits * selections.frequency
-    console.log(ram_factor, cpu_factor);
-
-    let min_cpu = (Math.min((cpu_factor - 25) / 1500000, 1)) * 32;
-    console.log(min_cpu)
     return instances.filter((instance) => {
         return (
-            instance["vCPU"] >= min_cpu
-            && instance["RAM (GB)"] >= .5
-            && instance["CPU Max Clock (GHz)"] >= 3.1
+            (instance["Cloud"] == selections["cloud"] || selections["cloud"] == "all")
+            && instance["RAM (GB)"] >= selections["min_ram"]
+            && instance["vCPUs"] >= selections["min_vcpus"]
         );
     });
 }

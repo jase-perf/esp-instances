@@ -1,0 +1,4 @@
+AWS: https://instances.vantage.sh/
+Azure: https://azure-instances.info/
+GCP: https://gcpinstances.doit-intl.com/
+Digital Ocean: https://www.digitalocean.com/pricing#Compute (Manually copy tables and reformat)

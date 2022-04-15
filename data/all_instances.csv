@@ -1,0 +1,1179 @@
+Name,vCPUs,RAM (GB),CPU Speed,Monthly Cost (on demand),Notes,Cloud
+t4g.nano,0,0.5,2.5,$3.07,Intended for testing and development,AWS
+t3a.nano,0,0.5,2.5,$3.43,Intended for testing and development,AWS
+t3.nano,0,0.5,3.1,$3.80,Intended for testing and development,AWS
+t2.nano,0,0.5,Unknown,$4.23,Intended for testing and development,AWS
+B1ls,1.0,0.5,N/A,$4.56,General-purpose,Azure
+Basic (Regular) $5.00,1.0,1.0,Shared,$5.43,Includes 25GB of storage,Digital Ocean
+f1-micro,shared,0.6,2.3,$5.55,micro,GCP
+e2-micro,0.25,1.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$6.12,micro,GCP
+t4g.micro,0,1.0,2.5,$6.13,Intended for testing and development,AWS
+Basic (Intel) $6.00,1.0,1.0,Shared,$6.52,Includes 25GB of storage,Digital Ocean
+t3a.micro,0,1.0,2.5,$6.86,Intended for testing and development,AWS
+t3.micro,0,1.0,3.1,$7.59,Intended for testing and development,AWS
+t2.micro,0,1.0,Unknown,$8.47,Intended for testing and development,AWS
+B1s,1.0,1.0,N/A,$9.12,General-purpose,Azure
+Basic (Regular) $10.00,1.0,2.0,Shared,$10.86,Includes 50GB of storage,Digital Ocean
+e2-small,0.5,2.0,N/A,$12.23,small,GCP
+t4g.small,0,2.0,2.5,$12.26,Intended for testing and development,AWS
+Basic (Intel) $12.00,1.0,2.0,Shared,$13.04,Includes 50GB of storage,Digital Ocean
+t3a.small,0,2.0,2.5,$13.72,Intended for testing and development,AWS
+t1.micro,1.0,0.613,Unknown,$14.60,Intended for testing and development,AWS
+A0,0,Unknown,,$14.60,General-purpose,Azure
+t3.small,0,2.0,3.1,$15.18,Intended for testing and development,AWS
+Basic (Regular) $15.00,2.0,2.0,Shared,$16.29,Includes 60GB of storage,Digital Ocean
+t2.small,0,2.0,Unknown,$16.79,Intended for testing and development,AWS
+B1ms,1.0,2.0,N/A,$18.25,General-purpose,Azure
+a1.medium,1.0,2.0,2.3,$18.61,,AWS
+Basic (Intel) $18.00,2.0,2.0,Shared,$19.56,Includes 60GB of storage,Digital Ocean
+g1-small,shared,1.7,2.3,$19.71,small,GCP
+Basic (Regular) $20.00,2.0,4.0,Shared,$21.72,Includes 80GB of storage,Digital Ocean
+e2-medium,1.0,4.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$24.46,medium,GCP
+t4g.medium,0,4.0,2.5,$24.53,Intended for testing and development,AWS
+c6g.medium,1.0,2.0,2.5,$24.82,Compute-optimized,AWS
+Basic (Intel) $24.00,2.0,4.0,Shared,$26.07,Includes 80GB of storage,Digital Ocean
+t3a.medium,0,4.0,2.5,$27.45,Intended for testing and development,AWS
+c6gd.medium,1.0,2.0,2.5,$28.03,Compute-optimized,AWS
+m6g.medium,1.0,4.0,Unknown,$28.11,Memory-optimized,AWS
+t3.medium,0,4.0,3.1,$30.37,Intended for testing and development,AWS
+t2d-standard-1,1.0,4.0,AMD EPYC Milan,$30.84,standard,GCP
+A1 v2,1.0,2.0,Unknown,$31.39,General-purpose,Azure
+c6gn.medium,1.0,2.0,2.5,$31.54,Compute-optimized,AWS
+m1.small,1.0,1.7,Unknown,$32.12,Memory-optimized,AWS
+m6gd.medium,1.0,4.0,2.5,$33.00,Memory-optimized,AWS
+t2.medium,0,4.0,Unknown,$33.87,Intended for testing and development,AWS
+n1-standard-1,1.0,3.75,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$34.67,standard,GCP
+e2-highcpu-2,2.0,2.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$36.11,highcpu,GCP
+B2s,2.0,4.0,N/A,$36.43,General-purpose,Azure
+r6g.medium,1.0,8.0,2.5,$36.79,General Purpose,AWS
+a1.large,2.0,4.0,2.3,$37.23,,AWS
+F1,1.0,2.0,2.4,$39.93,Compute-optimized,Azure
+F1s,1.0,2.0,2.4,$39.93,Compute-optimized,Azure
+r6gd.medium,1.0,8.0,2.5,$42.05,General Purpose,AWS
+Basic (Regular) $40.00,4.0,8.0,Shared,$43.45,Includes 160GB of storage,Digital Ocean
+CPU-Optimized $40.00,2.0,4.0,2.7,$43.45,Includes 25GB of storage,Digital Ocean
+A1,1.0,1.75,Unknown,$43.80,General-purpose,Azure
+n2d-highcpu-2,2.0,2.0,"AMD EPYC Rome, AMD EPYC Milan",$45.54,highcpu,GCP
+CPU-Optimized $45.00,2.0,4.0,2.7,$48.88,Includes 50GB of storage,Digital Ocean
+m3.medium,1.0,3.75,2.5,$48.91,Memory-optimized,AWS
+e2-standard-2,2.0,8.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$48.92,standard,GCP
+t4g.large,0,8.0,2.5,$49.06,Intended for testing and development,AWS
+c6g.large,2.0,4.0,2.5,$49.64,Compute-optimized,AWS
+n1-highcpu-2,2.0,1.8,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$51.76,highcpu,GCP
+Basic (Intel) $48.00,4.0,8.0,Shared,$52.14,Includes 160GB of storage,Digital Ocean
+n2-highcpu-2,2.0,2.0,"Cascade Lake, Ice Lake",$52.34,highcpu,GCP
+D1 v2,1.0,3.5,2.35,$53.29,General-purpose,Azure
+DS1 v2,1.0,3.5,2.35,$53.29,General-purpose,Azure
+c2d-highcpu-2,2.0,4.0,AMD EPYC Milan 3rd Generation,$54.72,highcpu,GCP
+t3a.large,0,8.0,2.5,$54.90,Intended for testing and development,AWS
+c6a.large,2.0,4.0,2.95,$55.84,Compute-optimized,AWS
+c6gd.large,2.0,4.0,2.5,$56.06,Compute-optimized,AWS
+m6g.large,2.0,8.0,Unknown,$56.21,Memory-optimized,AWS
+c5a.large,2.0,4.0,2.8,$56.21,Compute-optimized,AWS
+D1,1.0,3.5,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$56.21,General-purpose,Azure
+D1s,0,Unknown,,$56.21,General-purpose,Azure
+t3.large,0,8.0,3.1,$60.74,Intended for testing and development,AWS
+x2gd.medium,1.0,16.0,2.5,$60.96,,AWS
+n2d-standard-2,2.0,8.0,"AMD EPYC Rome, AMD EPYC Milan",$61.68,standard,GCP
+t2d-standard-2,2.0,8.0,AMD EPYC Milan,$61.68,standard,GCP
+c5.large,2.0,4.0,3.0,$62.05,Compute-optimized,AWS
+c6i.large,2.0,4.0,3.5,$62.05,Compute-optimized,AWS
+m5a.large,2.0,8.0,2.5,$62.78,Memory-optimized,AWS
+c5ad.large,2.0,4.0,2.8,$62.78,Compute-optimized,AWS
+m6a.large,2.0,8.0,2.95,$63.07,Memory-optimized,AWS
+c6gn.large,2.0,4.0,2.5,$63.07,Compute-optimized,AWS
+m1.medium,1.0,3.75,Unknown,$63.51,Memory-optimized,AWS
+General Purpose $60.00,2.0,8.0,2.7,$65.18,Includes 25GB of storage,Digital Ocean
+m6gd.large,2.0,8.0,2.5,$65.99,Memory-optimized,AWS
+e2-highmem-2,2.0,16.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$65.99,highmem,GCP
+c2d-standard-2,2.0,8.0,AMD EPYC Milan 3rd Generation,$66.28,standard,GCP
+A2 v2,2.0,4.0,Unknown,$66.43,General-purpose,Azure
+t2.large,0,8.0,Unknown,$67.74,Intended for testing and development,AWS
+n1-standard-2,2.0,7.5,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$69.35,standard,GCP
+m6i.large,2.0,8.0,3.5,$70.08,Memory-optimized,AWS
+m5.large,2.0,8.0,3.1,$70.08,Memory-optimized,AWS
+c5d.large,2.0,4.0,3.0,$70.08,Compute-optimized,AWS
+n2-standard-2,2.0,8.0,"Cascade Lake, Ice Lake",$70.90,standard,GCP
+D2as v5,0,Unknown,,$70.96,General-purpose,Azure
+e2-highcpu-4,4.0,4.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$72.23,highcpu,GCP
+B2ms,2.0,8.0,N/A,$72.85,General-purpose,Azure
+m4.large,2.0,8.0,2.4,$73.00,Memory-optimized,AWS
+c4.large,2.0,3.75,2.9,$73.00,Compute-optimized,AWS
+r6g.large,2.0,16.0,2.5,$73.58,General Purpose,AWS
+a1.xlarge,4.0,8.0,2.3,$74.46,,AWS
+F2s v2,2.0,4.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$74.46,Compute-optimized,Azure
+m5ad.large,2.0,8.0,2.5,$75.19,Memory-optimized,AWS
+c3.large,2.0,3.75,2.8,$76.65,Compute-optimized,AWS
+c5n.large,2.0,5.25,3.0,$78.84,Compute-optimized,AWS
+D2 v4,2.0,8.0,Intel Xeon Platinum 8272CL (Cascade Lake),$78.84,General-purpose,Azure
+D2 v5,0,Unknown,,$78.84,General-purpose,Azure
+D2a v4,2.0,8.0,AMD 2.35 Ghz EPYC 7452,$78.84,General-purpose,Azure
+D2as v4,2.0,8.0,AMD 2.35 Ghz EPYC 7452,$78.84,General-purpose,Azure
+D2s v4,2.0,8.0,Intel Xeon Platinum 8272CL (Cascade Lake),$78.84,General-purpose,Azure
+D2s v5,0,Unknown,,$78.84,General-purpose,Azure
+F2,2.0,4.0,2.4,$79.57,Compute-optimized,Azure
+F2s,2.0,4.0,2.4,$79.57,Compute-optimized,Azure
+D2 v3,2.0,8.0,2.35,$80.30,General-purpose,Azure
+D2s v3,2.0,8.0,2.35,$80.30,General-purpose,Azure
+r5a.large,2.0,16.0,2.5,$82.49,General Purpose,AWS
+m5d.large,2.0,8.0,3.1,$82.49,Memory-optimized,AWS
+n2d-highmem-2,2.0,16.0,"AMD EPYC Rome, AMD EPYC Milan",$83.21,highmem,GCP
+r6gd.large,2.0,16.0,2.5,$84.10,General Purpose,AWS
+D2ads v5,0,Unknown,,$84.68,General-purpose,Azure
+DC1s v3,0,Unknown,,$86.14,General-purpose,Azure
+n1-highmem-2,2.0,13.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$86.43,highmem,GCP
+m5n.large,2.0,8.0,3.1,$86.87,Memory-optimized,AWS
+Basic (Regular) $80.00,8.0,16.0,Shared,$86.91,Includes 320GB of storage,Digital Ocean
+CPU-Optimized $80.00,4.0,8.0,2.7,$86.91,Includes 50GB of storage,Digital Ocean
+Memory-Optimized $80.00,2.0,16.0,2.7,$86.91,Includes 50GB of storage,Digital Ocean
+A2,2.0,3.5,Unknown,$87.60,General-purpose,Azure
+c2d-highmem-2,2.0,16.0,AMD EPYC Milan 3rd Generation,$89.40,highmem,GCP
+n2d-highcpu-4,4.0,4.0,"AMD EPYC Rome, AMD EPYC Milan",$91.07,highcpu,GCP
+r6i.large,2.0,16.0,3.5,$91.98,General Purpose,AWS
+r5.large,2.0,16.0,3.1,$91.98,General Purpose,AWS
+D2d v4,2.0,8.0,Intel Xeon Platinum 8272CL (Cascade Lake),$93.44,General-purpose,Azure
+D2d v5,0,Unknown,,$93.44,General-purpose,Azure
+D2ds v4,2.0,8.0,Intel Xeon Platinum 8272CL (Cascade Lake),$93.44,General-purpose,Azure
+D2ds v5,0,Unknown,,$93.44,General-purpose,Azure
+E2as v5,0,Unknown,,$93.44,Memory-optimized,Azure
+A2m v2,2.0,16.0,Unknown,$94.17,General-purpose,Azure
+c1.medium,2.0,1.7,Unknown,$94.90,Compute-optimized,AWS
+r5ad.large,2.0,16.0,2.5,$95.63,General Purpose,AWS
+n2-highmem-2,2.0,16.0,"Cascade Lake, Ice Lake",$95.64,highmem,GCP
+m3.large,2.0,7.5,2.5,$97.09,Memory-optimized,AWS
+r4.large,2.0,15.25,2.3,$97.09,General Purpose,AWS
+CPU-Optimized $90.00,4.0,8.0,2.7,$97.77,Includes 100GB of storage,Digital Ocean
+e2-standard-4,4.0,16.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$97.83,standard,GCP
+t4g.xlarge,0,16.0,2.5,$98.11,Intended for testing and development,AWS
+m5dn.large,2.0,8.0,3.1,$99.28,Memory-optimized,AWS
+c6g.xlarge,4.0,8.0,2.5,$99.28,Compute-optimized,AWS
+DC1ds v3,0,Unknown,,$101.47,General-purpose,Azure
+n1-highcpu-4,4.0,3.6,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$103.51,highcpu,GCP
+E2 v4,2.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$103.66,Memory-optimized,Azure
+E2 v5,0,Unknown,,$103.66,Memory-optimized,Azure
+E2a v4,2.0,16.0,AMD 2.35 Ghz EPYC 7452,$103.66,Memory-optimized,Azure
+E2as v4,2.0,16.0,AMD 2.35 Ghz EPYC 7452,$103.66,Memory-optimized,Azure
+E2s v4,2.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$103.66,Memory-optimized,Azure
+E2s v5,0,Unknown,,$103.66,Memory-optimized,Azure
+Basic (Intel) $96.00,8.0,16.0,Shared,$104.29,Includes 500GB of storage,Digital Ocean
+n2-highcpu-4,4.0,4.0,"Cascade Lake, Ice Lake",$104.67,highcpu,GCP
+r5d.large,2.0,16.0,3.1,$105.12,General Purpose,AWS
+is4gen.medium,1.0,6.0,2.5,$105.18,,AWS
+D2 v2,2.0,7.0,2.35,$106.58,General-purpose,Azure
+DS2 v2,2.0,7.0,2.35,$106.58,General-purpose,Azure
+E2 v3,2.0,16.0,2.2,$106.58,Memory-optimized,Azure
+E2s v3,2.0,16.0,2.2,$106.58,Memory-optimized,Azure
+E2ads v5,0,Unknown,,$108.04,Memory-optimized,Azure
+Memory-Optimized $100.00,2.0,16.0,2.7,$108.63,Includes 150GB of storage,Digital Ocean
+r5b.large,2.0,16.0,3.1,$108.77,General Purpose,AWS
+r5n.large,2.0,16.0,2.5,$108.77,General Purpose,AWS
+c2d-highcpu-4,4.0,8.0,AMD EPYC Milan 3rd Generation,$109.44,highcpu,GCP
+t3a.xlarge,0,16.0,2.5,$109.79,Intended for testing and development,AWS
+c6a.xlarge,4.0,8.0,2.95,$111.69,Compute-optimized,AWS
+c6gd.xlarge,4.0,8.0,2.5,$112.13,Compute-optimized,AWS
+c5a.xlarge,4.0,8.0,2.8,$112.42,Compute-optimized,AWS
+m6g.xlarge,4.0,16.0,Unknown,$112.42,Memory-optimized,AWS
+D2,2.0,7.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$112.42,General-purpose,Azure
+D2s,0,Unknown,,$112.42,General-purpose,Azure
+i3.large,2.0,15.25,2.3,$113.88,,AWS
+E2d v4,2.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$118.99,Memory-optimized,Azure
+E2d v5,0,Unknown,,$118.99,Memory-optimized,Azure
+E2ds v4,2.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$118.99,Memory-optimized,Azure
+E2ds v5,0,Unknown,,$118.99,Memory-optimized,Azure
+m5zn.large,2.0,8.0,4.5,$120.60,Memory-optimized,AWS
+r3.large,2.0,15.25,2.5,$121.18,General Purpose,AWS
+t3.xlarge,0,16.0,3.1,$121.47,Intended for testing and development,AWS
+r5dn.large,2.0,16.0,3.1,$121.91,General Purpose,AWS
+x2gd.large,2.0,32.0,2.5,$121.91,,AWS
+n2d-standard-4,4.0,16.0,"AMD EPYC Rome, AMD EPYC Milan",$123.36,standard,GCP
+t2d-standard-4,4.0,16.0,AMD EPYC Milan,$123.36,standard,GCP
+c5.xlarge,4.0,8.0,3.0,$124.10,Compute-optimized,AWS
+c6i.xlarge,4.0,8.0,3.5,$124.10,Compute-optimized,AWS
+c5ad.xlarge,4.0,8.0,2.8,$125.56,Compute-optimized,AWS
+m5a.xlarge,4.0,16.0,2.5,$125.56,Memory-optimized,AWS
+m6a.xlarge,4.0,16.0,2.95,$126.14,Memory-optimized,AWS
+c6gn.xlarge,4.0,8.0,2.5,$126.14,Compute-optimized,AWS
+m1.large,2.0,7.5,Unknown,$127.75,Memory-optimized,AWS
+General Purpose $120.00,4.0,16.0,2.7,$130.36,Includes 50GB of storage,Digital Ocean
+m6gd.xlarge,4.0,16.0,2.5,$131.98,Memory-optimized,AWS
+e2-highmem-4,4.0,32.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$131.98,highmem,GCP
+c2d-standard-4,4.0,16.0,AMD EPYC Milan 3rd Generation,$132.56,standard,GCP
+im4gn.large,2.0,8.0,2.5,$132.79,,AWS
+D11 v2,2.0,14.0,2.27,$135.05,General-purpose,Azure
+DS11 v2,2.0,14.0,2.27,$135.05,General-purpose,Azure
+DS11-1 v2,0,Unknown,,$135.05,General-purpose,Azure
+t2.xlarge,0,16.0,Unknown,$135.49,Intended for testing and development,AWS
+z1d.large,2.0,16.0,4.0,$135.78,,AWS
+Memory-Optimized $125.00,2.0,16.0,2.7,$135.79,Includes 300GB of storage,Digital Ocean
+Storage-Optimized $125.00,2.0,16.0,2.7,$135.79,Includes 300GB of storage,Digital Ocean
+n1-standard-4,4.0,15.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$138.70,standard,GCP
+A4 v2,4.0,8.0,Unknown,$139.43,General-purpose,Azure
+c5d.xlarge,4.0,8.0,3.0,$140.16,Compute-optimized,AWS
+m6i.xlarge,4.0,16.0,3.5,$140.16,Memory-optimized,AWS
+m5.xlarge,4.0,16.0,3.1,$140.16,Memory-optimized,AWS
+D11,2.0,14.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$140.89,General-purpose,Azure
+D11s,0,Unknown,,$140.89,General-purpose,Azure
+D4as v5,0,Unknown,,$141.62,General-purpose,Azure
+n2-standard-4,4.0,16.0,"Cascade Lake, Ice Lake",$141.80,standard,GCP
+e2-highcpu-8,8.0,8.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$144.45,highcpu,GCP
+c4.xlarge,4.0,7.5,2.9,$145.27,Compute-optimized,AWS
+m4.xlarge,4.0,16.0,2.4,$146.00,Memory-optimized,AWS
+B4ms,4.0,16.0,N/A,$146.00,General-purpose,Azure
+r6g.xlarge,4.0,32.0,2.5,$147.17,General Purpose,AWS
+a1.2xlarge,8.0,16.0,2.3,$148.92,,AWS
+F4s v2,4.0,8.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$148.92,Compute-optimized,Azure
+m5ad.xlarge,4.0,16.0,2.5,$150.38,Memory-optimized,AWS
+c2-standard-4,4.0,16.0,Cascade Lake,$152.43,standard,GCP
+c3.xlarge,4.0,7.5,2.8,$153.30,Compute-optimized,AWS
+c5n.xlarge,4.0,10.5,3.0,$157.68,Compute-optimized,AWS
+D4 v4,4.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$158.41,General-purpose,Azure
+D4 v5,0,Unknown,,$158.41,General-purpose,Azure
+D4a v4,4.0,16.0,AMD 2.35 Ghz EPYC 7452,$158.41,General-purpose,Azure
+D4as v4,4.0,16.0,AMD 2.35 Ghz EPYC 7452,$158.41,General-purpose,Azure
+D4s v4,4.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$158.41,General-purpose,Azure
+D4s v5,0,Unknown,,$158.41,General-purpose,Azure
+F4,4.0,8.0,2.4,$159.87,Compute-optimized,Azure
+F4s,4.0,8.0,2.4,$159.87,Compute-optimized,Azure
+D4 v3,4.0,16.0,2.35,$160.60,General-purpose,Azure
+D4s v3,4.0,16.0,2.35,$160.60,General-purpose,Azure
+r5a.xlarge,4.0,32.0,2.5,$164.98,General Purpose,AWS
+i3en.large,2.0,16.0,3.1,$164.98,,AWS
+m5d.xlarge,4.0,16.0,3.1,$164.98,Memory-optimized,AWS
+n2d-highmem-4,4.0,32.0,"AMD EPYC Rome, AMD EPYC Milan",$166.41,highmem,GCP
+inf1.xlarge,4.0,8.0,Unknown,$166.44,,AWS
+r6gd.xlarge,4.0,32.0,2.5,$168.19,General Purpose,AWS
+Storage-Optimized $155.00,2.0,16.0,2.7,$168.37,Includes 450GB of storage,Digital Ocean
+D4ads v5,0,Unknown,,$170.09,General-purpose,Azure
+DC2s v3,0,Unknown,,$172.28,General-purpose,Azure
+n1-highmem-4,4.0,26.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$172.86,highmem,GCP
+m5n.xlarge,4.0,16.0,3.1,$173.74,Memory-optimized,AWS
+CPU-Optimized $160.00,8.0,16.0,2.7,$173.81,Includes 100GB of storage,Digital Ocean
+Memory-Optimized $160.00,4.0,32.0,2.7,$173.81,Includes 100GB of storage,Digital Ocean
+A3,4.0,7.0,Unknown,$175.20,General-purpose,Azure
+c2d-highmem-4,4.0,32.0,AMD EPYC Milan 3rd Generation,$178.79,highmem,GCP
+m2.xlarge,2.0,17.1,Unknown,$178.85,Memory-optimized,AWS
+n2d-highcpu-8,8.0,8.0,"AMD EPYC Rome, AMD EPYC Milan",$182.13,highcpu,GCP
+A5,2.0,14.0,Unknown,$182.50,General-purpose,Azure
+r5.xlarge,4.0,32.0,3.1,$183.96,General Purpose,AWS
+r6i.xlarge,4.0,32.0,3.5,$183.96,General Purpose,AWS
+D4d v4,4.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$186.15,General-purpose,Azure
+D4d v5,0,Unknown,,$186.15,General-purpose,Azure
+D4ds v4,4.0,16.0,Intel Xeon Platinum 8272CL (Cascade Lake),$186.15,General-purpose,Azure
+D4ds v5,0,Unknown,,$186.15,General-purpose,Azure
+E4-2as v5,0,Unknown,,$186.15,Memory-optimized,Azure
+E4as v5,0,Unknown,,$186.15,Memory-optimized,Azure
+r5ad.xlarge,4.0,32.0,2.5,$191.26,General Purpose,AWS
+n2-highmem-4,4.0,32.0,"Cascade Lake, Ice Lake",$191.28,highmem,GCP
+m3.xlarge,4.0,15.0,2.5,$194.18,Memory-optimized,AWS
+r4.xlarge,4.0,30.5,2.3,$194.18,General Purpose,AWS
+CPU-Optimized $180.00,8.0,16.0,2.7,$195.54,Includes 200GB of storage,Digital Ocean
+e2-standard-8,8.0,32.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$195.68,standard,GCP
+t4g.2xlarge,0,32.0,2.5,$196.22,Intended for testing and development,AWS
+A4m v2,4.0,32.0,Unknown,$197.10,General-purpose,Azure
+m5dn.xlarge,4.0,16.0,3.1,$198.56,Memory-optimized,AWS
+c6g.2xlarge,8.0,16.0,2.5,$198.56,Compute-optimized,AWS
+DC2ds v3,0,Unknown,,$202.94,General-purpose,Azure
+n1-highcpu-8,8.0,7.2,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$207.03,highcpu,GCP
+E4 v4,4.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$208.05,Memory-optimized,Azure
+E4 v5,0,Unknown,,$208.05,Memory-optimized,Azure
+E4-2as v4,0,Unknown,,$208.05,Memory-optimized,Azure
+E4-2s v4,0,Unknown,,$208.05,Memory-optimized,Azure
+E4-2s v5,0,Unknown,,$208.05,Memory-optimized,Azure
+E4a v4,4.0,32.0,AMD 2.35 Ghz EPYC 7452,$208.05,Memory-optimized,Azure
+E4as v4,4.0,32.0,AMD 2.35 Ghz EPYC 7452,$208.05,Memory-optimized,Azure
+E4s v4,4.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$208.05,Memory-optimized,Azure
+E4s v5,0,Unknown,,$208.05,Memory-optimized,Azure
+n2-highcpu-8,8.0,8.0,"Cascade Lake, Ice Lake",$209.35,highcpu,GCP
+r5d.xlarge,4.0,32.0,3.1,$210.24,General Purpose,AWS
+is4gen.large,2.0,12.0,2.5,$210.35,,AWS
+Memory-Optimized $195.00,4.0,32.0,2.7,$211.83,Includes 300GB of storage,Digital Ocean
+E4 v3,4.0,32.0,2.2,$213.16,Memory-optimized,Azure
+E4-2s v3,0,Unknown,,$213.16,Memory-optimized,Azure
+E4s v3,4.0,32.0,2.2,$213.16,Memory-optimized,Azure
+D3 v2,4.0,14.0,2.35,$213.89,General-purpose,Azure
+DS3 v2,4.0,14.0,2.35,$213.89,General-purpose,Azure
+E4-2ads v5,0,Unknown,,$216.08,Memory-optimized,Azure
+E4ads v5,0,Unknown,,$216.08,Memory-optimized,Azure
+r5b.xlarge,4.0,32.0,3.1,$217.54,General Purpose,AWS
+r5n.xlarge,4.0,32.0,2.5,$217.54,General Purpose,AWS
+c2d-highcpu-8,8.0,16.0,AMD EPYC Milan 3rd Generation,$218.88,highcpu,GCP
+t3a.2xlarge,0,32.0,2.5,$219.58,Intended for testing and development,AWS
+c6a.2xlarge,8.0,16.0,2.95,$223.38,Compute-optimized,AWS
+c6gd.2xlarge,8.0,16.0,2.5,$224.26,Compute-optimized,AWS
+m6g.2xlarge,8.0,32.0,Unknown,$224.84,Memory-optimized,AWS
+c5a.2xlarge,8.0,16.0,2.8,$224.84,Compute-optimized,AWS
+D3,4.0,14.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$224.84,General-purpose,Azure
+D3s,0,Unknown,,$224.84,General-purpose,Azure
+i3.xlarge,4.0,30.5,2.3,$227.76,,AWS
+E4-2ds v4,0,Unknown,,$237.25,Memory-optimized,Azure
+E4-2ds v5,0,Unknown,,$237.25,Memory-optimized,Azure
+E4d v4,4.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$237.25,Memory-optimized,Azure
+E4d v5,0,Unknown,,$237.25,Memory-optimized,Azure
+E4ds v4,4.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$237.25,Memory-optimized,Azure
+E4ds v5,0,Unknown,,$237.25,Memory-optimized,Azure
+m5zn.xlarge,4.0,16.0,4.5,$241.12,Memory-optimized,AWS
+t3.2xlarge,0,32.0,3.1,$242.94,Intended for testing and development,AWS
+r3.xlarge,4.0,30.5,2.5,$243.09,General Purpose,AWS
+r5dn.xlarge,4.0,32.0,3.1,$243.82,General Purpose,AWS
+x2gd.xlarge,4.0,64.0,2.5,$243.82,,AWS
+n2d-standard-8,8.0,32.0,"AMD EPYC Rome, AMD EPYC Milan",$246.72,standard,GCP
+t2d-standard-8,8.0,32.0,AMD EPYC Milan,$246.72,standard,GCP
+c6i.2xlarge,8.0,16.0,3.5,$248.20,Compute-optimized,AWS
+c5.2xlarge,8.0,16.0,3.0,$248.20,Compute-optimized,AWS
+m5a.2xlarge,8.0,32.0,2.5,$251.12,Memory-optimized,AWS
+c5ad.2xlarge,8.0,16.0,2.8,$251.12,Compute-optimized,AWS
+c6gn.2xlarge,8.0,16.0,2.5,$252.29,Compute-optimized,AWS
+m6a.2xlarge,8.0,32.0,2.95,$252.29,Memory-optimized,AWS
+m1.xlarge,4.0,15.0,Unknown,$255.50,Memory-optimized,AWS
+General Purpose $240.00,8.0,32.0,2.7,$260.71,Includes 100GB of storage,Digital Ocean
+m6gd.2xlarge,8.0,32.0,2.5,$263.97,Memory-optimized,AWS
+e2-highmem-8,8.0,64.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$263.97,highmem,GCP
+inf1.2xlarge,8.0,16.0,Unknown,$264.26,,AWS
+c2d-standard-8,8.0,32.0,AMD EPYC Milan 3rd Generation,$265.11,standard,GCP
+im4gn.xlarge,4.0,16.0,2.5,$265.57,,AWS
+D12 v2,4.0,28.0,2.27,$270.83,General-purpose,Azure
+DS12 v2,4.0,28.0,2.27,$270.83,General-purpose,Azure
+DS12-1 v2,0,Unknown,,$270.83,General-purpose,Azure
+DS12-2 v2,0,Unknown,,$270.83,General-purpose,Azure
+t2.2xlarge,0,32.0,Unknown,$270.98,Intended for testing and development,AWS
+z1d.xlarge,4.0,32.0,4.0,$271.56,,AWS
+Memory-Optimized $250.00,4.0,32.0,2.7,$271.57,Includes 600GB of storage,Digital Ocean
+Storage-Optimized $250.00,4.0,32.0,2.7,$271.57,Includes 600GB of storage,Digital Ocean
+g4ad.xlarge,4.0,16.0,2.8,$276.33,,AWS
+n1-standard-8,8.0,30.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$277.40,standard,GCP
+c5d.2xlarge,8.0,16.0,3.0,$280.32,Compute-optimized,AWS
+m5.2xlarge,8.0,32.0,3.1,$280.32,Memory-optimized,AWS
+m6i.2xlarge,8.0,32.0,3.5,$280.32,Memory-optimized,AWS
+D12,4.0,28.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$281.78,General-purpose,Azure
+D12s,0,Unknown,,$281.78,General-purpose,Azure
+n2-standard-8,8.0,32.0,"Cascade Lake, Ice Lake",$283.58,standard,GCP
+D8as v5,0,Unknown,,$283.97,General-purpose,Azure
+e2-highcpu-16,16.0,16.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$288.90,highcpu,GCP
+c4.2xlarge,8.0,15.0,2.9,$290.54,Compute-optimized,AWS
+B8ms,8.0,32.0,N/A,$291.27,General-purpose,Azure
+m4.2xlarge,8.0,32.0,2.4,$292.00,Memory-optimized,AWS
+A8 v2,8.0,16.0,Unknown,$292.00,General-purpose,Azure
+r6g.2xlarge,8.0,64.0,2.5,$294.34,General Purpose,AWS
+a1.metal,16.0,32.0,2.3,$297.84,,AWS
+a1.4xlarge,16.0,32.0,2.3,$297.84,,AWS
+F8s v2,8.0,16.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$297.84,Compute-optimized,Azure
+m5ad.2xlarge,8.0,32.0,2.5,$300.76,Memory-optimized,AWS
+c2-standard-8,8.0,32.0,Cascade Lake,$304.86,standard,GCP
+c3.2xlarge,8.0,15.0,2.8,$306.60,Compute-optimized,AWS
+g5g.xlarge,4.0,8.0,2.5,$306.60,,AWS
+c5n.2xlarge,8.0,21.0,3.0,$315.36,Compute-optimized,AWS
+D8 v4,8.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$316.82,General-purpose,Azure
+D8a v4,8.0,32.0,AMD 2.35 Ghz EPYC 7452,$316.82,General-purpose,Azure
+D8as v4,8.0,32.0,AMD 2.35 Ghz EPYC 7452,$316.82,General-purpose,Azure
+D8s v4,8.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$316.82,General-purpose,Azure
+D8s v5,0,Unknown,,$316.82,General-purpose,Azure
+F8,8.0,16.0,2.4,$319.74,Compute-optimized,Azure
+F8s,8.0,16.0,2.4,$319.74,Compute-optimized,Azure
+D8 v3,8.0,32.0,2.35,$321.20,General-purpose,Azure
+D8s v3,8.0,32.0,2.35,$321.20,General-purpose,Azure
+r5a.2xlarge,8.0,64.0,2.5,$329.96,General Purpose,AWS
+i3en.xlarge,4.0,32.0,3.1,$329.96,,AWS
+m5d.2xlarge,8.0,32.0,3.1,$329.96,Memory-optimized,AWS
+n2d-highmem-8,8.0,64.0,"AMD EPYC Rome, AMD EPYC Milan",$332.82,highmem,GCP
+r6gd.2xlarge,8.0,64.0,2.5,$336.38,General Purpose,AWS
+Storage-Optimized $310.00,4.0,32.0,2.7,$336.76,Includes 900GB of storage,Digital Ocean
+D8ads v5,0,Unknown,,$340.18,General-purpose,Azure
+h1.2xlarge,8.0,32.0,2.3,$341.64,,AWS
+DC4s v3,0,Unknown,,$344.56,General-purpose,Azure
+n1-highmem-8,8.0,52.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$345.73,highmem,GCP
+m5n.2xlarge,8.0,32.0,3.1,$347.48,Memory-optimized,AWS
+CPU-Optimized $320.00,16.0,32.0,2.7,$347.62,Includes 200GB of storage,Digital Ocean
+Memory-Optimized $320.00,8.0,64.0,2.7,$347.62,Includes 200GB of storage,Digital Ocean
+A4,8.0,14.0,Unknown,$350.40,General-purpose,Azure
+c2d-highmem-8,8.0,64.0,AMD EPYC Milan 3rd Generation,$357.58,highmem,GCP
+m2.2xlarge,4.0,34.2,Unknown,$357.70,Memory-optimized,AWS
+d3.xlarge,4.0,32.0,3.1,$364.27,,AWS
+n2d-highcpu-16,16.0,16.0,"AMD EPYC Rome, AMD EPYC Milan",$364.28,highcpu,GCP
+A6,4.0,28.0,Unknown,$365.00,General-purpose,Azure
+r5.2xlarge,8.0,64.0,3.1,$367.92,General Purpose,AWS
+r6i.2xlarge,8.0,64.0,3.5,$367.92,General Purpose,AWS
+D8d v4,8.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$373.03,General-purpose,Azure
+D8d v5,0,Unknown,,$373.03,General-purpose,Azure
+D8ds v4,8.0,32.0,Intel Xeon Platinum 8272CL (Cascade Lake),$373.03,General-purpose,Azure
+D8ds v5,0,Unknown,,$373.03,General-purpose,Azure
+E8-2as v5,0,Unknown,,$373.03,Memory-optimized,Azure
+E8-4as v5,0,Unknown,,$373.03,Memory-optimized,Azure
+E8as v5,0,Unknown,,$373.03,Memory-optimized,Azure
+c1.xlarge,8.0,7.0,Unknown,$379.60,Compute-optimized,AWS
+r5ad.2xlarge,8.0,64.0,2.5,$382.52,General Purpose,AWS
+n2-highmem-8,8.0,64.0,"Cascade Lake, Ice Lake",$382.56,highmem,GCP
+d3en.xlarge,4.0,16.0,3.1,$383.98,,AWS
+g4dn.xlarge,4.0,16.0,2.5,$383.98,,AWS
+m3.2xlarge,8.0,30.0,2.5,$388.36,Memory-optimized,AWS
+r4.2xlarge,8.0,61.0,2.3,$388.36,General Purpose,AWS
+CPU-Optimized $360.00,16.0,32.0,2.7,$391.07,Includes 400GB of storage,Digital Ocean
+e2-standard-16,16.0,64.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$391.35,standard,GCP
+g4ad.2xlarge,8.0,32.0,2.8,$395.05,,AWS
+c6g.4xlarge,16.0,32.0,2.5,$397.12,Compute-optimized,AWS
+m5dn.2xlarge,8.0,32.0,3.1,$397.12,Memory-optimized,AWS
+g5g.2xlarge,8.0,16.0,2.5,$405.88,,AWS
+DC4ds v3,0,Unknown,,$405.88,General-purpose,Azure
+n1-highcpu-16,16.0,14.4,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$414.06,highcpu,GCP
+A8m v2,8.0,64.0,Unknown,$414.64,General-purpose,Azure
+E8 v4,8.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$416.10,Memory-optimized,Azure
+E8 v5,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-2as v4,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-2s v4,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-2s v5,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-4as v4,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-4s v4,0,Unknown,,$416.10,Memory-optimized,Azure
+E8-4s v5,0,Unknown,,$416.10,Memory-optimized,Azure
+E8a v4,8.0,64.0,AMD 2.35 Ghz EPYC 7452,$416.10,Memory-optimized,Azure
+E8as v4,8.0,64.0,AMD 2.35 Ghz EPYC 7452,$416.10,Memory-optimized,Azure
+E8s v4,8.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$416.10,Memory-optimized,Azure
+E8s v5,0,Unknown,,$416.10,Memory-optimized,Azure
+n2-highcpu-16,16.0,16.0,"Cascade Lake, Ice Lake",$418.71,highcpu,GCP
+r5d.2xlarge,8.0,64.0,3.1,$420.48,General Purpose,AWS
+is4gen.xlarge,4.0,24.0,2.5,$420.70,,AWS
+Memory-Optimized $390.00,8.0,64.0,2.7,$423.66,Includes 600GB of storage,Digital Ocean
+E8 v3,8.0,64.0,2.2,$425.59,Memory-optimized,Azure
+E8-2s v3,0,Unknown,,$425.59,Memory-optimized,Azure
+E8-4s v3,0,Unknown,,$425.59,Memory-optimized,Azure
+E8s v3,8.0,64.0,2.2,$425.59,Memory-optimized,Azure
+D4 v2,8.0,28.0,2.35,$427.05,General-purpose,Azure
+DS4 v2,8.0,28.0,2.35,$427.05,General-purpose,Azure
+E8-2ads v5,0,Unknown,,$432.16,Memory-optimized,Azure
+E8-4ads v5,0,Unknown,,$432.16,Memory-optimized,Azure
+E8ads v5,0,Unknown,,$432.16,Memory-optimized,Azure
+NC4as T4 v3,0,Unknown,,$433.62,,Azure
+r5n.2xlarge,8.0,64.0,2.5,$435.08,General Purpose,AWS
+r5b.2xlarge,8.0,64.0,3.1,$435.08,General Purpose,AWS
+B12ms,12.0,48.0,N/A,$437.27,General-purpose,Azure
+c2d-highcpu-16,16.0,32.0,AMD EPYC Milan 3rd Generation,$437.76,highcpu,GCP
+c6a.4xlarge,16.0,32.0,2.95,$446.76,Compute-optimized,AWS
+c6gd.4xlarge,16.0,32.0,2.5,$448.51,Compute-optimized,AWS
+c5a.4xlarge,16.0,32.0,2.8,$449.68,Compute-optimized,AWS
+m6g.4xlarge,16.0,64.0,Unknown,$449.68,Memory-optimized,AWS
+D4,8.0,28.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$449.68,General-purpose,Azure
+D4s,0,Unknown,,$449.68,General-purpose,Azure
+i3.2xlarge,8.0,61.0,2.3,$455.52,,AWS
+g2.2xlarge,8.0,15.0,2.6,$474.50,,AWS
+vt1.3xlarge,12.0,24.0,2.5,$474.50,,AWS
+E8-2ds v4,0,Unknown,,$475.23,Memory-optimized,Azure
+E8-2ds v5,0,Unknown,,$475.23,Memory-optimized,Azure
+E8-4ds v4,0,Unknown,,$475.23,Memory-optimized,Azure
+E8-4ds v5,0,Unknown,,$475.23,Memory-optimized,Azure
+E8d v4,8.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$475.23,Memory-optimized,Azure
+E8d v5,0,Unknown,,$475.23,Memory-optimized,Azure
+E8ds v4,8.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$475.23,Memory-optimized,Azure
+E8ds v5,0,Unknown,,$475.23,Memory-optimized,Azure
+m5zn.2xlarge,8.0,32.0,4.5,$482.31,Memory-optimized,AWS
+r3.2xlarge,8.0,61.0,2.5,$485.45,General Purpose,AWS
+x2gd.2xlarge,8.0,128.0,2.5,$487.64,,AWS
+r5dn.2xlarge,8.0,64.0,3.1,$487.64,General Purpose,AWS
+n2d-standard-16,16.0,64.0,"AMD EPYC Rome, AMD EPYC Milan",$493.44,standard,GCP
+t2d-standard-16,16.0,64.0,AMD EPYC Milan,$493.44,standard,GCP
+c5.4xlarge,16.0,32.0,3.0,$496.40,Compute-optimized,AWS
+c6i.4xlarge,16.0,32.0,3.5,$496.40,Compute-optimized,AWS
+m5a.4xlarge,16.0,64.0,2.5,$502.24,Memory-optimized,AWS
+c5ad.4xlarge,16.0,32.0,2.8,$502.24,Compute-optimized,AWS
+d2.xlarge,4.0,30.5,2.4,$503.70,,AWS
+m6a.4xlarge,16.0,64.0,2.95,$504.58,Memory-optimized,AWS
+c6gn.4xlarge,16.0,32.0,2.5,$504.58,Compute-optimized,AWS
+General Purpose $480.00,16.0,64.0,2.7,$521.43,Includes 200GB of storage,Digital Ocean
+m6gd.4xlarge,16.0,64.0,2.5,$527.94,Memory-optimized,AWS
+e2-highmem-16,16.0,128.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$527.94,highmem,GCP
+c2d-standard-16,16.0,64.0,AMD EPYC Milan 3rd Generation,$530.24,standard,GCP
+im4gn.2xlarge,8.0,32.0,2.5,$531.13,,AWS
+a2-highgpu-1g,12.0,85.0,Cascade Lake,$539.82,highgpu,GCP
+D13 v2,8.0,56.0,2.27,$540.93,General-purpose,Azure
+DS13 v2,8.0,56.0,2.27,$540.93,General-purpose,Azure
+DS13-2 v2,0,Unknown,,$540.93,General-purpose,Azure
+DS13-4 v2,0,Unknown,,$540.93,General-purpose,Azure
+z1d.2xlarge,8.0,64.0,4.0,$543.12,,AWS
+Memory-Optimized $500.00,8.0,64.0,2.7,$543.16,Includes 1.17TB of storage,Digital Ocean
+Storage-Optimized $500.00,8.0,64.0,2.7,$543.16,Includes 1.17TB of storage,Digital Ocean
+g3s.xlarge,4.0,30.5,2.3,$547.50,,AWS
+g4dn.2xlarge,8.0,32.0,2.5,$548.96,,AWS
+n1-standard-16,16.0,60.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$554.80,standard,GCP
+m6i.4xlarge,16.0,64.0,3.5,$560.64,Memory-optimized,AWS
+c5d.4xlarge,16.0,32.0,3.0,$560.64,Compute-optimized,AWS
+m5.4xlarge,16.0,64.0,3.1,$560.64,Memory-optimized,AWS
+D13,8.0,56.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$562.83,General-purpose,Azure
+D13s,0,Unknown,,$562.83,General-purpose,Azure
+n2-standard-16,16.0,64.0,"Cascade Lake, Ice Lake",$567.17,standard,GCP
+D16as v5,0,Unknown,,$567.21,General-purpose,Azure
+L8s v2,8.0,64.0,AMD EPYC 7551,$567.21,,Azure
+e2-highcpu-32,32.0,32.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$577.81,highcpu,GCP
+c4.4xlarge,16.0,30.0,2.9,$581.08,Compute-optimized,AWS
+B16ms,16.0,64.0,N/A,$583.27,General-purpose,Azure
+m4.4xlarge,16.0,64.0,2.4,$584.00,Memory-optimized,AWS
+r6g.4xlarge,16.0,128.0,2.5,$588.67,General Purpose,AWS
+F16s v2,16.0,32.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$595.68,Compute-optimized,Azure
+m5ad.4xlarge,16.0,64.0,2.5,$601.52,Memory-optimized,AWS
+g5g.4xlarge,16.0,32.0,2.5,$604.44,,AWS
+x2iedn.xlarge,4.0,128.0,3.5,$608.55,,AWS
+x1e.xlarge,4.0,122.0,2.3,$608.82,,AWS
+c2-standard-16,16.0,64.0,Cascade Lake,$609.72,standard,GCP
+c3.4xlarge,16.0,30.0,2.8,$613.20,Compute-optimized,AWS
+NC8as T4 v3,0,Unknown,,$619.77,,Azure
+i2.xlarge,4.0,30.5,2.5,$622.69,,AWS
+c5n.4xlarge,16.0,42.0,3.0,$630.72,Compute-optimized,AWS
+g4ad.4xlarge,16.0,64.0,2.8,$632.91,,AWS
+D16 v4,16.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$633.64,General-purpose,Azure
+D16 v5,0,Unknown,,$633.64,General-purpose,Azure
+D16a v4,16.0,64.0,AMD 2.35 Ghz EPYC 7452,$633.64,General-purpose,Azure
+D16as v4,16.0,64.0,AMD 2.35 Ghz EPYC 7452,$633.64,General-purpose,Azure
+D16s v4,16.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$633.64,General-purpose,Azure
+D16s v5,0,Unknown,,$633.64,General-purpose,Azure
+F16,16.0,32.0,2.4,$638.75,Compute-optimized,Azure
+F16s,16.0,32.0,2.4,$638.75,Compute-optimized,Azure
+D16 v3,16.0,64.0,2.35,$642.40,General-purpose,Azure
+D16s v3,16.0,64.0,2.35,$642.40,General-purpose,Azure
+p2.xlarge,4.0,61.0,2.3,$657.00,,AWS
+r5a.4xlarge,16.0,128.0,2.5,$659.92,General Purpose,AWS
+i3en.2xlarge,8.0,64.0,3.1,$659.92,,AWS
+m5d.4xlarge,16.0,64.0,3.1,$659.92,Memory-optimized,AWS
+n2d-highmem-16,16.0,128.0,"AMD EPYC Rome, AMD EPYC Milan",$665.64,highmem,GCP
+r6gd.4xlarge,16.0,128.0,2.5,$672.77,General Purpose,AWS
+Storage-Optimized $620.00,8.0,64.0,2.7,$673.51,Includes 1.76TB of storage,Digital Ocean
+D16ads v5,0,Unknown,,$679.63,General-purpose,Azure
+h1.4xlarge,16.0,64.0,2.3,$683.28,,AWS
+DC8s v3,0,Unknown,,$689.85,General-purpose,Azure
+n1-highmem-16,16.0,104.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$691.46,highmem,GCP
+m5n.4xlarge,16.0,64.0,3.1,$694.96,Memory-optimized,AWS
+CPU-Optimized $640.00,32.0,64.0,2.7,$695.24,Includes 400GB of storage,Digital Ocean
+Memory-Optimized $640.00,16.0,128.0,2.7,$695.24,Includes 400GB of storage,Digital Ocean
+c2d-highmem-16,16.0,128.0,AMD EPYC Milan 3rd Generation,$715.17,highmem,GCP
+m2.4xlarge,8.0,68.4,Unknown,$715.40,Memory-optimized,AWS
+m5zn.3xlarge,12.0,48.0,4.5,$723.43,Memory-optimized,AWS
+B20ms,20.0,80.0,N/A,$728.54,General-purpose,Azure
+n2d-highcpu-32,32.0,32.0,"AMD EPYC Rome, AMD EPYC Milan",$728.55,highcpu,GCP
+d3.2xlarge,8.0,64.0,3.1,$729.27,,AWS
+A7,8.0,56.0,Unknown,$730.00,General-purpose,Azure
+g5.xlarge,4.0,16.0,2.8,$734.38,,AWS
+r6i.4xlarge,16.0,128.0,3.5,$735.84,General Purpose,AWS
+r5.4xlarge,16.0,128.0,3.1,$735.84,General Purpose,AWS
+D16d v4,16.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$746.06,General-purpose,Azure
+D16d v5,0,Unknown,,$746.06,General-purpose,Azure
+D16ds v4,16.0,64.0,Intel Xeon Platinum 8272CL (Cascade Lake),$746.06,General-purpose,Azure
+D16ds v5,0,Unknown,,$746.06,General-purpose,Azure
+E16-4as v5,0,Unknown,,$746.06,Memory-optimized,Azure
+E16-8as v5,0,Unknown,,$746.06,Memory-optimized,Azure
+E16as v5,0,Unknown,,$746.06,Memory-optimized,Azure
+r5ad.4xlarge,16.0,128.0,2.5,$765.04,General Purpose,AWS
+n2-highmem-16,16.0,128.0,"Cascade Lake, Ice Lake",$765.12,highmem,GCP
+d3en.2xlarge,8.0,32.0,3.1,$767.23,,AWS
+r4.4xlarge,16.0,122.0,2.3,$776.72,General Purpose,AWS
+CPU-Optimized $720.00,32.0,64.0,2.7,$782.14,Includes 800GB of storage,Digital Ocean
+e2-standard-32,32.0,128.0,"Skylake, Broadwell, Haswell, AMD EPYC Rome",$782.69,standard,GCP
+m5dn.4xlarge,16.0,64.0,3.1,$794.24,Memory-optimized,AWS
+c6g.8xlarge,32.0,64.0,2.5,$794.24,Compute-optimized,AWS
+DC8ds v3,0,Unknown,,$811.76,General-purpose,Azure
+z1d.3xlarge,12.0,96.0,4.0,$814.68,,AWS
+n1-highcpu-32,32.0,28.8,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$828.11,highcpu,GCP
+E16 v4,16.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$831.47,Memory-optimized,Azure
+E16 v5,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-4as v4,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-4s v4,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-4s v5,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-8as v4,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-8s v4,0,Unknown,,$831.47,Memory-optimized,Azure
+E16-8s v5,0,Unknown,,$831.47,Memory-optimized,Azure
+E16a v4,16.0,128.0,AMD 2.35 Ghz EPYC 7452,$831.47,Memory-optimized,Azure
+E16as v4,16.0,128.0,AMD 2.35 Ghz EPYC 7452,$831.47,Memory-optimized,Azure
+E16s v4,16.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$831.47,Memory-optimized,Azure
+E16s v5,0,Unknown,,$831.47,Memory-optimized,Azure
+g3.4xlarge,16.0,122.0,2.3,$832.20,,AWS
+n2-highcpu-32,32.0,32.0,"Cascade Lake, Ice Lake",$837.41,highcpu,GCP
+r5d.4xlarge,16.0,128.0,3.1,$840.96,General Purpose,AWS
+is4gen.2xlarge,8.0,48.0,2.5,$841.40,,AWS
+E16 v3,16.0,128.0,2.2,$851.91,Memory-optimized,Azure
+E16-4s v3,0,Unknown,,$851.91,Memory-optimized,Azure
+E16-8s v3,0,Unknown,,$851.91,Memory-optimized,Azure
+E16s v3,16.0,128.0,2.2,$851.91,Memory-optimized,Azure
+Memory-Optimized $785.00,16.0,128.0,2.7,$852.75,Includes 1.17TB of storage,Digital Ocean
+D5 v2,16.0,56.0,2.35,$854.10,General-purpose,Azure
+DS5 v2,16.0,56.0,2.35,$854.10,General-purpose,Azure
+inf1.6xlarge,24.0,48.0,Unknown,$861.40,,AWS
+E16-4ads v5,0,Unknown,,$864.32,Memory-optimized,Azure
+E16-8ads v5,0,Unknown,,$864.32,Memory-optimized,Azure
+E16ads v5,0,Unknown,,$864.32,Memory-optimized,Azure
+r5n.4xlarge,16.0,128.0,2.5,$870.16,General Purpose,AWS
+r5b.4xlarge,16.0,128.0,3.1,$870.16,General Purpose,AWS
+c2d-highcpu-32,32.0,64.0,AMD EPYC Milan 3rd Generation,$875.53,highcpu,GCP
+g4dn.4xlarge,16.0,64.0,2.5,$878.92,,AWS
+g5.2xlarge,8.0,32.0,2.8,$884.76,,AWS
+c6a.8xlarge,32.0,64.0,2.95,$893.52,Compute-optimized,AWS
+c6gd.8xlarge,32.0,64.0,2.5,$897.02,Compute-optimized,AWS
+c5a.8xlarge,32.0,64.0,2.8,$899.36,Compute-optimized,AWS
+m6g.8xlarge,32.0,128.0,Unknown,$899.36,Memory-optimized,AWS
+i3.4xlarge,16.0,122.0,2.3,$911.04,,AWS
+E20as v5,0,Unknown,,$932.21,Memory-optimized,Azure
+vt1.6xlarge,24.0,48.0,2.5,$949.00,,AWS
+E16-4ds v4,0,Unknown,,$950.46,Memory-optimized,Azure
+E16-4ds v5,0,Unknown,,$950.46,Memory-optimized,Azure
+E16-8ds v4,0,Unknown,,$950.46,Memory-optimized,Azure
+E16-8ds v5,0,Unknown,,$950.46,Memory-optimized,Azure
+E16d v4,16.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$950.46,Memory-optimized,Azure
+E16d v5,0,Unknown,,$950.46,Memory-optimized,Azure
+E16ds v4,16.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$950.46,Memory-optimized,Azure
+E16ds v5,0,Unknown,,$950.46,Memory-optimized,Azure
+r3.4xlarge,16.0,122.0,2.5,$970.90,General Purpose,AWS
+r5dn.4xlarge,16.0,128.0,3.1,$975.28,General Purpose,AWS
+x2gd.4xlarge,16.0,256.0,2.5,$975.28,,AWS
+n2d-standard-32,32.0,128.0,"AMD EPYC Rome, AMD EPYC Milan",$986.87,standard,GCP
+t2d-standard-32,32.0,128.0,AMD EPYC Milan,$986.87,standard,GCP
+i3en.3xlarge,12.0,96.0,3.1,$989.88,,AWS
+c6i.8xlarge,32.0,64.0,3.5,$992.80,Compute-optimized,AWS
+NC16as T4 v3,0,Unknown,,$992.80,,Azure
+g5g.8xlarge,32.0,64.0,2.5,$1001.56,,AWS
+m5a.8xlarge,32.0,128.0,2.5,$1004.48,Memory-optimized,AWS
+c5ad.8xlarge,32.0,64.0,2.8,$1004.48,Compute-optimized,AWS
+d2.2xlarge,8.0,61.0,2.4,$1007.40,,AWS
+c6gn.8xlarge,32.0,64.0,2.5,$1009.15,Compute-optimized,AWS
+m6a.8xlarge,32.0,128.0,2.95,$1009.15,Memory-optimized,AWS
+E20 v5,0,Unknown,,$1039.52,Memory-optimized,Azure
+E20a v4,20.0,160.0,AMD 2.35 Ghz EPYC 7452,$1039.52,Memory-optimized,Azure
+E20as v4,20.0,160.0,AMD 2.35 Ghz EPYC 7452,$1039.52,Memory-optimized,Azure
+E20s v4,20.0,160.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1039.52,Memory-optimized,Azure
+E20s v5,0,Unknown,,$1039.52,Memory-optimized,Azure
+General Purpose $960.00,32.0,128.0,2.7,$1042.86,Includes 400GB of storage,Digital Ocean
+Memory-Optimized $960.00,24.0,192.0,2.7,$1042.86,Includes 600GB of storage,Digital Ocean
+m6gd.8xlarge,32.0,128.0,2.5,$1055.87,Memory-optimized,AWS
+c2d-standard-32,32.0,128.0,AMD EPYC Milan 3rd Generation,$1060.46,standard,GCP
+im4gn.4xlarge,16.0,64.0,2.5,$1062.27,,AWS
+E20 v3,20.0,160.0,2.2,$1065.80,Memory-optimized,Azure
+E20s v3,20.0,160.0,2.2,$1065.80,Memory-optimized,Azure
+a2-highgpu-2g,24.0,170.0,Cascade Lake,$1079.63,highgpu,GCP
+E20ads v5,0,Unknown,,$1080.40,Memory-optimized,Azure
+D14 v2,16.0,112.0,2.27,$1081.86,General-purpose,Azure
+DS14 v2,16.0,112.0,2.27,$1081.86,General-purpose,Azure
+DS14-4 v2,0,Unknown,,$1081.86,General-purpose,Azure
+DS14-8 v2,0,Unknown,,$1081.86,General-purpose,Azure
+Memory-Optimized $1000.00,16.0,128.0,2.7,$1086.31,Includes 2.34TB of storage,Digital Ocean
+Storage-Optimized $1000.00,16.0,128.0,2.7,$1086.31,Includes 2.34TB of storage,Digital Ocean
+n2d-highcpu-48,48.0,48.0,"AMD EPYC Rome, AMD EPYC Milan",$1092.82,highcpu,GCP
+n1-standard-32,32.0,120.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$1109.60,standard,GCP
+c5.9xlarge,36.0,72.0,3.0,$1116.90,Compute-optimized,AWS
+m6i.8xlarge,32.0,128.0,3.5,$1121.28,Memory-optimized,AWS
+m5.8xlarge,32.0,128.0,3.1,$1121.28,Memory-optimized,AWS
+D14,16.0,112.0,"Intel Xeon E5-2660 v2 (2.2GHz), Intel Xeon E5-2673 v3 2.4GHz (Haswell), Intel Xeon E5-2673 v4 2.3GHz (Broadwell)",$1125.66,General-purpose,Azure
+D14s,0,Unknown,,$1125.66,General-purpose,Azure
+n2-standard-32,32.0,128.0,"Cascade Lake, Ice Lake",$1134.34,standard,GCP
+D32as v5,0,Unknown,,$1135.15,General-purpose,Azure
+L16s v2,16.0,128.0,AMD EPYC 7551,$1135.15,,Azure
+c2-standard-30,30.0,120.0,Cascade Lake,$1143.22,standard,GCP
+c4.8xlarge,36.0,60.0,2.9,$1161.43,Compute-optimized,AWS
+r6g.8xlarge,32.0,256.0,2.5,$1177.34,General Purpose,AWS
+g5.4xlarge,16.0,64.0,2.8,$1185.52,,AWS
+E20d v4,20.0,160.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1187.71,Memory-optimized,Azure
+E20d v5,0,Unknown,,$1187.71,Memory-optimized,Azure
+E20ds v4,20.0,160.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1187.71,Memory-optimized,Azure
+E20ds v5,0,Unknown,,$1187.71,Memory-optimized,Azure
+c6g.12xlarge,48.0,96.0,2.5,$1191.36,Compute-optimized,AWS
+F32s v2,32.0,64.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$1191.36,Compute-optimized,Azure
+m5ad.8xlarge,32.0,128.0,2.5,$1203.04,Memory-optimized,AWS
+f1.2xlarge,8.0,122.0,2.3,$1204.50,,AWS
+x2iedn.2xlarge,8.0,256.0,3.5,$1217.09,,AWS
+x2iezn.2xlarge,8.0,256.0,4.5,$1217.64,,AWS
+x1e.2xlarge,8.0,244.0,2.3,$1217.64,,AWS
+c3.8xlarge,32.0,60.0,2.8,$1226.40,Compute-optimized,AWS
+i2.2xlarge,8.0,61.0,2.5,$1244.65,,AWS
+n2-highcpu-48,48.0,48.0,"Cascade Lake, Ice Lake",$1256.11,highcpu,GCP
+c5d.9xlarge,36.0,72.0,3.0,$1261.44,Compute-optimized,AWS
+g4ad.8xlarge,32.0,128.0,2.8,$1265.82,,AWS
+D32 v4,32.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1267.28,General-purpose,Azure
+D32 v5,0,Unknown,,$1267.28,General-purpose,Azure
+D32a v4,32.0,128.0,AMD 2.35 Ghz EPYC 7452,$1267.28,General-purpose,Azure
+D32as v4,32.0,128.0,AMD 2.35 Ghz EPYC 7452,$1267.28,General-purpose,Azure
+D32s v4,32.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1267.28,General-purpose,Azure
+D32s v5,0,Unknown,,$1267.28,General-purpose,Azure
+M8-2ms,0,Unknown,,$1267.28,,Azure
+M8-4ms,0,Unknown,,$1267.28,,Azure
+M8ms,8.0,218.75,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$1267.28,,Azure
+Memory-Optimized $1175.00,24.0,192.0,2.7,$1276.41,Includes 1.76TB of storage,Digital Ocean
+D32 v3,32.0,128.0,2.35,$1284.80,General-purpose,Azure
+D32s v3,32.0,128.0,2.35,$1284.80,General-purpose,Azure
+General Purpose $1200.00,40.0,160.0,2.7,$1303.57,Includes 500GB of storage,Digital Ocean
+r5a.8xlarge,32.0,256.0,2.5,$1319.84,General Purpose,AWS
+m5d.8xlarge,32.0,128.0,3.1,$1319.84,Memory-optimized,AWS
+n2d-highmem-32,32.0,256.0,"AMD EPYC Rome, AMD EPYC Milan",$1331.29,highmem,GCP
+c6a.12xlarge,48.0,96.0,2.95,$1340.28,Compute-optimized,AWS
+c6gd.12xlarge,48.0,96.0,2.5,$1345.54,Compute-optimized,AWS
+r6gd.8xlarge,32.0,256.0,2.5,$1345.54,General Purpose,AWS
+Storage-Optimized $1240.00,16.0,128.0,2.7,$1347.03,Includes 3.52TB of storage,Digital Ocean
+c5a.12xlarge,48.0,96.0,2.8,$1349.04,Compute-optimized,AWS
+m6g.12xlarge,48.0,192.0,Unknown,$1349.04,Memory-optimized,AWS
+D15 v2,20.0,140.0,2.27,$1352.69,General-purpose,Azure
+D15i v2,0,Unknown,,$1352.69,General-purpose,Azure
+DS15 v2,20.0,140.0,2.27,$1352.69,General-purpose,Azure
+DS15i v2,0,Unknown,,$1352.69,General-purpose,Azure
+D32ads v5,0,Unknown,,$1359.26,General-purpose,Azure
+h1.8xlarge,32.0,128.0,2.3,$1366.56,,AWS
+DC16s v3,0,Unknown,,$1378.97,General-purpose,Azure
+n1-highmem-32,32.0,208.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$1382.91,highmem,GCP
+m5n.8xlarge,32.0,128.0,3.1,$1389.92,Memory-optimized,AWS
+Memory-Optimized $1280.00,32.0,256.0,2.7,$1390.47,Includes 800GB of storage,Digital Ocean
+c5n.9xlarge,36.0,96.0,3.0,$1419.12,Compute-optimized,AWS
+c2d-highmem-32,32.0,256.0,AMD EPYC Milan 3rd Generation,$1430.35,highmem,GCP
+m5zn.6xlarge,24.0,96.0,4.5,$1446.86,Memory-optimized,AWS
+n2d-highcpu-64,64.0,64.0,"AMD EPYC Rome, AMD EPYC Milan",$1457.10,highcpu,GCP
+d3.4xlarge,16.0,128.0,3.1,$1458.54,,AWS
+cc2.8xlarge,32.0,60.5,2.6,$1460.00,Compute-optimized,AWS
+m4.10xlarge,40.0,160.0,2.4,$1460.00,Memory-optimized,AWS
+r5.8xlarge,32.0,256.0,3.1,$1471.68,General Purpose,AWS
+r6i.8xlarge,32.0,256.0,3.5,$1471.68,General Purpose,AWS
+n2d-standard-48,48.0,192.0,"AMD EPYC Rome, AMD EPYC Milan",$1480.30,standard,GCP
+t2d-standard-48,48.0,192.0,AMD EPYC Milan,$1480.30,standard,GCP
+c5.12xlarge,48.0,96.0,3.0,$1489.20,Compute-optimized,AWS
+c6i.12xlarge,48.0,96.0,3.5,$1489.20,Compute-optimized,AWS
+D32d v4,32.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1491.39,General-purpose,Azure
+D32d v5,0,Unknown,,$1491.39,General-purpose,Azure
+D32ds v4,32.0,128.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1491.39,General-purpose,Azure
+D32ds v5,0,Unknown,,$1491.39,General-purpose,Azure
+E32-16as v5,0,Unknown,,$1491.39,Memory-optimized,Azure
+E32-8as v5,0,Unknown,,$1491.39,Memory-optimized,Azure
+E32as v5,0,Unknown,,$1491.39,Memory-optimized,Azure
+m5a.12xlarge,48.0,192.0,2.5,$1506.72,Memory-optimized,AWS
+c5ad.12xlarge,48.0,96.0,2.8,$1506.72,Compute-optimized,AWS
+c6gn.12xlarge,48.0,96.0,2.5,$1513.73,Compute-optimized,AWS
+m6a.12xlarge,48.0,192.0,2.95,$1513.73,Memory-optimized,AWS
+r5ad.8xlarge,32.0,256.0,2.5,$1530.08,General Purpose,AWS
+n2-highmem-32,32.0,256.0,"Cascade Lake, Ice Lake",$1530.24,highmem,GCP
+c2d-highcpu-56,56.0,112.0,AMD EPYC Milan 3rd Generation,$1532.17,highcpu,GCP
+d3en.4xlarge,16.0,64.0,3.1,$1535.19,,AWS
+r4.8xlarge,32.0,244.0,2.3,$1553.44,General Purpose,AWS
+m6gd.12xlarge,48.0,192.0,2.5,$1583.81,Memory-optimized,AWS
+c6g.16xlarge,64.0,128.0,2.5,$1588.48,Compute-optimized,AWS
+m5dn.8xlarge,32.0,128.0,3.1,$1588.48,Memory-optimized,AWS
+c6g.metal,64.0,128.0,2.5,$1588.48,Compute-optimized,AWS
+g4dn.8xlarge,32.0,128.0,2.5,$1588.48,,AWS
+DC16ds v3,0,Unknown,,$1623.52,General-purpose,Azure
+z1d.6xlarge,24.0,192.0,4.0,$1629.36,,AWS
+Memory-Optimized $1500.00,24.0,192.0,2.7,$1629.46,Includes 3.52TB of storage,Digital Ocean
+Storage-Optimized $1500.00,24.0,192.0,2.7,$1629.46,Includes 3.52TB of storage,Digital Ocean
+n1-highcpu-64,64.0,57.6,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$1656.22,highcpu,GCP
+E32 v4,32.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1662.94,Memory-optimized,Azure
+E32 v5,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-16as v4,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-16s v4,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-16s v5,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-8as v4,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-8s v4,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32-8s v5,0,Unknown,,$1662.94,Memory-optimized,Azure
+E32a v4,32.0,256.0,AMD 2.35 Ghz EPYC 7452,$1662.94,Memory-optimized,Azure
+E32as v4,32.0,256.0,AMD 2.35 Ghz EPYC 7452,$1662.94,Memory-optimized,Azure
+E32s v4,32.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1662.94,Memory-optimized,Azure
+E32s v5,0,Unknown,,$1662.94,Memory-optimized,Azure
+g3.8xlarge,32.0,244.0,2.3,$1664.40,,AWS
+n2-highcpu-64,64.0,64.0,"Cascade Lake, Ice Lake",$1674.82,highcpu,GCP
+r5d.8xlarge,32.0,256.0,3.1,$1681.92,General Purpose,AWS
+m5.12xlarge,48.0,192.0,3.1,$1681.92,Memory-optimized,AWS
+c5d.12xlarge,48.0,96.0,3.0,$1681.92,Compute-optimized,AWS
+m6i.12xlarge,48.0,192.0,3.5,$1681.92,Memory-optimized,AWS
+is4gen.4xlarge,16.0,96.0,2.5,$1682.80,,AWS
+Memory-Optimized $1565.00,32.0,256.0,2.7,$1700.08,Includes 2.34TB of storage,Digital Ocean
+n2-standard-48,48.0,192.0,"Cascade Lake, Ice Lake",$1701.51,standard,GCP
+D48as v5,0,Unknown,,$1702.36,General-purpose,Azure
+E32 v3,32.0,256.0,2.2,$1703.82,Memory-optimized,Azure
+E32-16s v3,0,Unknown,,$1703.82,Memory-optimized,Azure
+E32-8s v3,0,Unknown,,$1703.82,Memory-optimized,Azure
+E32s v3,32.0,256.0,2.2,$1703.82,Memory-optimized,Azure
+E32-16ads v5,0,Unknown,,$1728.64,Memory-optimized,Azure
+E32-8ads v5,0,Unknown,,$1728.64,Memory-optimized,Azure
+E32ads v5,0,Unknown,,$1728.64,Memory-optimized,Azure
+r5n.8xlarge,32.0,256.0,2.5,$1740.32,General Purpose,AWS
+r5b.8xlarge,32.0,256.0,3.1,$1740.32,General Purpose,AWS
+r6g.12xlarge,48.0,384.0,2.5,$1766.02,General Purpose,AWS
+g5.8xlarge,32.0,128.0,2.8,$1787.04,,AWS
+c6a.16xlarge,64.0,128.0,2.95,$1787.04,Compute-optimized,AWS
+F48s v2,48.0,96.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$1787.04,Compute-optimized,Azure
+c6gd.metal,64.0,128.0,2.5,$1794.05,Compute-optimized,AWS
+c6gd.16xlarge,64.0,128.0,2.5,$1794.05,Compute-optimized,AWS
+m6g.16xlarge,64.0,256.0,Unknown,$1798.72,Memory-optimized,AWS
+m6g.metal,64.0,256.0,Unknown,$1798.72,Memory-optimized,AWS
+c5a.16xlarge,64.0,128.0,2.8,$1798.72,Compute-optimized,AWS
+m5ad.12xlarge,48.0,192.0,2.5,$1804.56,Memory-optimized,AWS
+n2d-highcpu-80,80.0,80.0,"AMD EPYC Rome, AMD EPYC Milan",$1821.38,highcpu,GCP
+i3.8xlarge,32.0,244.0,2.3,$1822.08,,AWS
+t2d-standard-60,60.0,240.0,AMD EPYC Milan,$1850.37,standard,GCP
+c2d-standard-56,56.0,224.0,AMD EPYC Milan 3rd Generation,$1855.81,standard,GCP
+g2.8xlarge,32.0,60.0,2.6,$1898.00,,AWS
+D48 v4,48.0,192.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1900.92,General-purpose,Azure
+D48 v5,0,Unknown,,$1900.92,General-purpose,Azure
+D48a v4,48.0,192.0,AMD 2.35 Ghz EPYC 7452,$1900.92,General-purpose,Azure
+D48as v4,48.0,192.0,AMD 2.35 Ghz EPYC 7452,$1900.92,General-purpose,Azure
+D48s v4,48.0,192.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1900.92,General-purpose,Azure
+D48s v5,0,Unknown,,$1900.92,General-purpose,Azure
+E32-16ds v4,0,Unknown,,$1900.92,Memory-optimized,Azure
+E32-16ds v5,0,Unknown,,$1900.92,Memory-optimized,Azure
+E32-8ds v4,0,Unknown,,$1900.92,Memory-optimized,Azure
+E32-8ds v5,0,Unknown,,$1900.92,Memory-optimized,Azure
+E32d v4,32.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1900.92,Memory-optimized,Azure
+E32d v5,0,Unknown,,$1900.92,Memory-optimized,Azure
+E32ds v4,32.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$1900.92,Memory-optimized,Azure
+E32ds v5,0,Unknown,,$1900.92,Memory-optimized,Azure
+D48 v3,48.0,192.0,2.35,$1927.20,General-purpose,Azure
+D48s v3,48.0,192.0,2.35,$1927.20,General-purpose,Azure
+r3.8xlarge,32.0,244.0,2.5,$1941.80,General Purpose,AWS
+r5dn.8xlarge,32.0,256.0,3.1,$1950.56,General Purpose,AWS
+x2gd.8xlarge,32.0,512.0,2.5,$1950.56,,AWS
+n2d-standard-64,64.0,256.0,"AMD EPYC Rome, AMD EPYC Milan",$1973.73,standard,GCP
+r5a.12xlarge,48.0,384.0,2.5,$1979.76,General Purpose,AWS
+m5d.12xlarge,48.0,192.0,3.1,$1979.76,Memory-optimized,AWS
+i3en.6xlarge,24.0,192.0,3.1,$1979.76,,AWS
+c6i.16xlarge,64.0,128.0,3.5,$1985.60,Compute-optimized,AWS
+n2d-highmem-48,48.0,384.0,"AMD EPYC Rome, AMD EPYC Milan",$1996.93,highmem,GCP
+g5g.metal,64.0,128.0,2.5,$2003.12,,AWS
+g5g.16xlarge,64.0,128.0,2.5,$2003.12,,AWS
+m5a.16xlarge,64.0,256.0,2.5,$2008.96,Memory-optimized,AWS
+c5ad.16xlarge,64.0,128.0,2.8,$2008.96,Compute-optimized,AWS
+Storage-Optimized $1850.00,24.0,192.0,2.7,$2009.68,Includes 5.27TB of storage,Digital Ocean
+d2.4xlarge,16.0,122.0,2.4,$2014.80,,AWS
+r6gd.12xlarge,48.0,384.0,2.5,$2018.30,General Purpose,AWS
+m6a.16xlarge,64.0,256.0,2.95,$2018.30,Memory-optimized,AWS
+c6gn.16xlarge,64.0,128.0,2.5,$2018.30,Compute-optimized,AWS
+D48ads v5,0,Unknown,,$2038.89,General-purpose,Azure
+DC24s v3,0,Unknown,,$2068.82,General-purpose,Azure
+m5n.12xlarge,48.0,192.0,3.1,$2084.88,Memory-optimized,AWS
+n2-highcpu-80,80.0,80.0,"Cascade Lake, Ice Lake",$2093.52,highcpu,GCP
+m6gd.16xlarge,64.0,256.0,2.5,$2111.74,Memory-optimized,AWS
+m6gd.metal,64.0,256.0,2.5,$2111.74,Memory-optimized,AWS
+im4gn.8xlarge,32.0,128.0,2.5,$2124.55,,AWS
+a2-highgpu-4g,48.0,340.0,Cascade Lake,$2159.27,highgpu,GCP
+Memory-Optimized $2000.00,32.0,256.0,2.7,$2172.62,Includes 4.69TB of storage,Digital Ocean
+Storage-Optimized $2000.00,32.0,256.0,2.7,$2172.62,Includes 4.69TB of storage,Digital Ocean
+n2d-highcpu-96,96.0,96.0,"AMD EPYC Rome, AMD EPYC Milan",$2185.66,highcpu,GCP
+r5.12xlarge,48.0,384.0,3.1,$2207.52,General Purpose,AWS
+r6i.12xlarge,48.0,384.0,3.5,$2207.52,General Purpose,AWS
+n1-standard-64,64.0,240.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$2219.20,standard,GCP
+M32ts,32.0,192.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$2233.07,,Azure
+c5.18xlarge,72.0,144.0,3.0,$2233.80,Compute-optimized,AWS
+p3.2xlarge,8.0,61.0,2.3,$2233.80,,AWS
+D48d v4,48.0,192.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2237.45,General-purpose,Azure
+D48d v5,0,Unknown,,$2237.45,General-purpose,Azure
+D48ds v4,48.0,192.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2237.45,General-purpose,Azure
+D48ds v5,0,Unknown,,$2237.45,General-purpose,Azure
+E48as v5,0,Unknown,,$2237.45,Memory-optimized,Azure
+m6i.16xlarge,64.0,256.0,3.5,$2242.56,Memory-optimized,AWS
+m5.16xlarge,64.0,256.0,3.1,$2242.56,Memory-optimized,AWS
+n2-standard-64,64.0,256.0,"Cascade Lake, Ice Lake",$2268.68,standard,GCP
+D64as v5,0,Unknown,,$2270.30,General-purpose,Azure
+L32s v2,32.0,256.0,AMD EPYC 7551,$2270.30,,Azure
+c2-standard-60,60.0,240.0,Cascade Lake,$2286.45,standard,GCP
+r5ad.12xlarge,48.0,384.0,2.5,$2295.12,General Purpose,AWS
+n2-highmem-48,48.0,384.0,"Cascade Lake, Ice Lake",$2295.37,highmem,GCP
+d3en.6xlarge,24.0,96.0,3.1,$2302.42,,AWS
+m4.16xlarge,64.0,256.0,2.4,$2336.00,Memory-optimized,AWS
+r6g.metal,64.0,512.0,2.5,$2354.69,General Purpose,AWS
+r6g.16xlarge,64.0,512.0,2.5,$2354.69,General Purpose,AWS
+M32ls,32.0,256.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$2369.58,,Azure
+m5dn.12xlarge,48.0,192.0,3.1,$2382.72,Memory-optimized,AWS
+F64s v2,64.0,128.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$2382.72,Compute-optimized,Azure
+m5ad.16xlarge,64.0,256.0,2.5,$2406.08,Memory-optimized,AWS
+f1.4xlarge,16.0,244.0,2.3,$2409.00,,AWS
+x2iedn.4xlarge,16.0,512.0,3.5,$2434.18,,AWS
+x1e.4xlarge,16.0,488.0,2.3,$2435.28,,AWS
+x2iezn.4xlarge,16.0,512.0,4.5,$2435.28,,AWS
+DC24ds v3,0,Unknown,,$2435.28,General-purpose,Azure
+n2d-standard-80,80.0,320.0,"AMD EPYC Rome, AMD EPYC Milan",$2467.17,standard,GCP
+n1-highcpu-96,96.0,86.4,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$2484.34,highcpu,GCP
+i2.4xlarge,16.0,122.0,2.5,$2489.30,,AWS
+E48 v4,48.0,384.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2494.41,Memory-optimized,Azure
+E48 v5,0,Unknown,,$2494.41,Memory-optimized,Azure
+E48a v4,48.0,384.0,AMD 2.35 Ghz EPYC 7452,$2494.41,Memory-optimized,Azure
+E48as v4,48.0,384.0,AMD 2.35 Ghz EPYC 7452,$2494.41,Memory-optimized,Azure
+E48s v4,48.0,384.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2494.41,Memory-optimized,Azure
+E48s v5,0,Unknown,,$2494.41,Memory-optimized,Azure
+c2d-highmem-56,56.0,448.0,AMD EPYC Milan 3rd Generation,$2503.10,highmem,GCP
+n2-highcpu-96,96.0,96.0,Ice Lake,$2512.23,highcpu,GCP
+c5d.18xlarge,72.0,144.0,3.0,$2522.88,Compute-optimized,AWS
+r5d.12xlarge,48.0,384.0,3.1,$2522.88,General Purpose,AWS
+NC6s v3,6.0,112.0,Intel Xeon E5-2690 v4 (Broadwell),$2524.34,,Azure
+g4ad.16xlarge,64.0,256.0,2.8,$2531.64,,AWS
+D64 v4,64.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2533.83,General-purpose,Azure
+D64 v5,0,Unknown,,$2533.83,General-purpose,Azure
+D64a v4,64.0,256.0,AMD 2.35 Ghz EPYC 7452,$2533.83,General-purpose,Azure
+D64as v4,64.0,256.0,AMD 2.35 Ghz EPYC 7452,$2533.83,General-purpose,Azure
+D64s v4,64.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2533.83,General-purpose,Azure
+D64s v5,0,Unknown,,$2533.83,General-purpose,Azure
+M16-4ms,0,Unknown,,$2534.56,,Azure
+M16-8ms,0,Unknown,,$2534.56,,Azure
+M16ms,16.0,437.5,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$2534.56,,Azure
+cr1.8xlarge,32.0,244.0,Unknown,$2555.00,Compute-optimized,AWS
+E48 v3,48.0,384.0,2.2,$2555.73,Memory-optimized,Azure
+E48s v3,48.0,384.0,2.2,$2555.73,Memory-optimized,Azure
+D64 v3,64.0,256.0,2.35,$2569.60,General-purpose,Azure
+D64s v3,64.0,256.0,2.35,$2569.60,General-purpose,Azure
+E48ads v5,0,Unknown,,$2593.69,Memory-optimized,Azure
+r5n.12xlarge,48.0,384.0,2.5,$2610.48,General Purpose,AWS
+r5b.12xlarge,48.0,384.0,3.1,$2610.48,General Purpose,AWS
+r5a.16xlarge,64.0,512.0,2.5,$2639.68,General Purpose,AWS
+m5d.16xlarge,64.0,256.0,3.1,$2639.68,Memory-optimized,AWS
+n2d-highmem-64,64.0,512.0,"AMD EPYC Rome, AMD EPYC Milan",$2662.57,highmem,GCP
+c6a.24xlarge,96.0,192.0,2.95,$2680.56,Compute-optimized,AWS
+F72s v2,72.0,144.0,"Intel Xeon Platinum 8272CL (Cascade Lake) processors, Intel Xeon Platinum 8168 (Skylake)",$2680.56,Compute-optimized,Azure
+r6gd.16xlarge,64.0,512.0,2.5,$2691.07,General Purpose,AWS
+r6gd.metal,64.0,512.0,2.5,$2691.07,General Purpose,AWS
+Storage-Optimized $2480.00,32.0,256.0,2.7,$2694.05,Includes 7.03TB of storage,Digital Ocean
+c5a.24xlarge,96.0,192.0,2.8,$2698.08,Compute-optimized,AWS
+D64ads v5,0,Unknown,,$2718.52,General-purpose,Azure
+h1.16xlarge,64.0,256.0,2.3,$2733.12,,AWS
+DC32s v3,0,Unknown,,$2758.67,General-purpose,Azure
+n1-highmem-64,64.0,416.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$2765.82,highmem,GCP
+m5n.16xlarge,64.0,256.0,3.1,$2779.84,Memory-optimized,AWS
+n2-standard-80,80.0,320.0,"Cascade Lake, Ice Lake",$2835.85,standard,GCP
+c5n.18xlarge,72.0,192.0,3.0,$2838.24,Compute-optimized,AWS
+c5n.metal,72.0,192.0,3.0,$2838.24,Compute-optimized,AWS
+E48d v4,48.0,384.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2850.65,Memory-optimized,Azure
+E48d v5,0,Unknown,,$2850.65,Memory-optimized,Azure
+E48ds v4,48.0,384.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2850.65,Memory-optimized,Azure
+E48ds v5,0,Unknown,,$2850.65,Memory-optimized,Azure
+g4dn.12xlarge,48.0,192.0,2.5,$2855.76,,AWS
+m5zn.metal,48.0,192.0,4.5,$2893.79,Memory-optimized,AWS
+m5zn.12xlarge,48.0,192.0,4.5,$2893.79,Memory-optimized,AWS
+n2d-highcpu-128,128.0,128.0,"AMD EPYC Rome, AMD EPYC Milan",$2914.20,highcpu,GCP
+d3.8xlarge,32.0,256.0,3.1,$2916.73,,AWS
+r5dn.12xlarge,48.0,384.0,3.1,$2925.84,General Purpose,AWS
+x2gd.12xlarge,48.0,768.0,2.5,$2925.84,,AWS
+r6i.16xlarge,64.0,512.0,3.5,$2943.36,General Purpose,AWS
+r5.16xlarge,64.0,512.0,3.1,$2943.36,General Purpose,AWS
+n2d-standard-96,96.0,384.0,"AMD EPYC Rome, AMD EPYC Milan",$2960.60,standard,GCP
+c5.metal,96.0,192.0,3.0,$2978.40,Compute-optimized,AWS
+c5.24xlarge,96.0,192.0,3.0,$2978.40,Compute-optimized,AWS
+c6i.24xlarge,96.0,192.0,3.5,$2978.40,Compute-optimized,AWS
+D64d v4,64.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2982.78,General-purpose,Azure
+D64d v5,0,Unknown,,$2982.78,General-purpose,Azure
+D64ds v4,64.0,256.0,Intel Xeon Platinum 8272CL (Cascade Lake),$2982.78,General-purpose,Azure
+D64ds v5,0,Unknown,,$2982.78,General-purpose,Azure
+E64-16as v5,0,Unknown,,$2982.78,Memory-optimized,Azure
+E64-32as v5,0,Unknown,,$2982.78,Memory-optimized,Azure
+E64as v5,0,Unknown,,$2982.78,Memory-optimized,Azure
+g5.16xlarge,64.0,256.0,2.8,$2990.08,,AWS
+c5ad.24xlarge,96.0,192.0,2.8,$3013.44,Compute-optimized,AWS
+m5a.24xlarge,96.0,384.0,2.5,$3013.44,Memory-optimized,AWS
+m6a.24xlarge,96.0,384.0,2.95,$3027.46,Memory-optimized,AWS
+r5ad.16xlarge,64.0,512.0,2.5,$3060.16,General Purpose,AWS
+n2-highmem-64,64.0,512.0,"Cascade Lake, Ice Lake",$3060.49,highmem,GCP
+c2d-highcpu-112,112.0,224.0,AMD EPYC Milan 3rd Generation,$3064.34,highcpu,GCP
+E64i v3,64.0,432.0,2.2,$3065.27,Memory-optimized,Azure
+E64is v3,64.0,432.0,2.2,$3065.27,Memory-optimized,Azure
+E64 v3,64.0,432.0,2.2,$3066.00,Memory-optimized,Azure
+E64-16s v3,0,Unknown,,$3066.00,Memory-optimized,Azure
+E64-32s v3,0,Unknown,,$3066.00,Memory-optimized,Azure
+E64s v3,64.0,432.0,2.2,$3066.00,Memory-optimized,Azure
+d3en.8xlarge,32.0,128.0,3.1,$3070.20,,AWS
+r4.16xlarge,64.0,488.0,2.3,$3106.88,General Purpose,AWS
+m5dn.16xlarge,64.0,256.0,3.1,$3176.96,Memory-optimized,AWS
+g4dn.16xlarge,64.0,256.0,2.5,$3176.96,,AWS
+HB120rs v2,0,Unknown,,$3232.44,,Azure
+DC32ds v3,0,Unknown,,$3247.04,General-purpose,Azure
+z1d.metal,48.0,384.0,4.0,$3258.72,,AWS
+z1d.12xlarge,48.0,384.0,4.0,$3258.72,,AWS
+E64 v4,64.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$3325.88,Memory-optimized,Azure
+E64 v5,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-16as v4,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-16s v4,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-16s v5,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-32as v4,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-32s v4,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64-32s v5,0,Unknown,,$3325.88,Memory-optimized,Azure
+E64a v4,64.0,512.0,AMD 2.35 Ghz EPYC 7452,$3325.88,Memory-optimized,Azure
+E64as v4,64.0,512.0,AMD 2.35 Ghz EPYC 7452,$3325.88,Memory-optimized,Azure
+E64s v4,64.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$3325.88,Memory-optimized,Azure
+E64s v5,0,Unknown,,$3325.88,Memory-optimized,Azure
+n2d-highmem-80,80.0,640.0,"AMD EPYC Rome, AMD EPYC Milan",$3328.22,highmem,GCP
+g3.16xlarge,64.0,488.0,2.3,$3328.80,,AWS
+n1-standard-96,96.0,360.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$3328.80,standard,GCP
+hs1.8xlarge,16.0,117.0,2.0,$3358.00,,AWS
+m5.24xlarge,96.0,384.0,3.1,$3363.84,Memory-optimized,AWS
+m6i.24xlarge,96.0,384.0,3.5,$3363.84,Memory-optimized,AWS
+c5d.24xlarge,96.0,192.0,3.0,$3363.84,Compute-optimized,AWS
+m5.metal,96.0,384.0,3.1,$3363.84,Memory-optimized,AWS
+c5d.metal,96.0,192.0,3.0,$3363.84,Compute-optimized,AWS
+r5d.16xlarge,64.0,512.0,3.1,$3363.84,General Purpose,AWS
+is4gen.8xlarge,32.0,192.0,2.5,$3365.59,,AWS
+n2-standard-96,96.0,384.0,Ice Lake,$3403.01,standard,GCP
+D96as v5,0,Unknown,,$3405.45,General-purpose,Azure
+L48s v2,48.0,384.0,AMD EPYC 7551,$3405.45,,Azure
+inf1.24xlarge,96.0,192.0,Unknown,$3446.33,,AWS
+E64-16ads v5,0,Unknown,,$3458.01,Memory-optimized,Azure
+E64-32ads v5,0,Unknown,,$3458.01,Memory-optimized,Azure
+E64ads v5,0,Unknown,,$3458.01,Memory-optimized,Azure
+r5b.16xlarge,64.0,512.0,3.1,$3480.64,General Purpose,AWS
+r5n.16xlarge,64.0,512.0,2.5,$3480.64,General Purpose,AWS
+c6a.32xlarge,128.0,256.0,2.95,$3574.08,Compute-optimized,AWS
+NC64as T4 v3,0,Unknown,,$3582.11,,Azure
+m5ad.24xlarge,96.0,384.0,2.5,$3609.12,Memory-optimized,AWS
+i3.metal,64.0,512.0,2.3,$3644.16,,AWS
+i3.16xlarge,64.0,488.0,2.3,$3644.16,,AWS
+x2iezn.6xlarge,24.0,768.0,4.5,$3652.92,,AWS
+c2d-standard-112,112.0,448.0,AMD EPYC Milan 3rd Generation,$3711.63,standard,GCP
+vt1.24xlarge,96.0,192.0,2.5,$3796.00,,AWS
+D96 v5,0,Unknown,,$3801.11,General-purpose,Azure
+D96a v4,96.0,384.0,AMD 2.35 Ghz EPYC 7452,$3801.11,General-purpose,Azure
+D96as v4,96.0,384.0,AMD 2.35 Ghz EPYC 7452,$3801.11,General-purpose,Azure
+D96s v5,0,Unknown,,$3801.11,General-purpose,Azure
+E64-16ds v4,0,Unknown,,$3801.11,Memory-optimized,Azure
+E64-16ds v5,0,Unknown,,$3801.11,Memory-optimized,Azure
+E64-32ds v4,0,Unknown,,$3801.11,Memory-optimized,Azure
+E64-32ds v5,0,Unknown,,$3801.11,Memory-optimized,Azure
+E64d v4,64.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$3801.11,Memory-optimized,Azure
+E64d v5,0,Unknown,,$3801.11,Memory-optimized,Azure
+E64ds v4,64.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$3801.11,Memory-optimized,Azure
+E64ds v5,0,Unknown,,$3801.11,Memory-optimized,Azure
+n2-highmem-80,80.0,640.0,"Cascade Lake, Ice Lake",$3825.61,highmem,GCP
+r5dn.16xlarge,64.0,512.0,3.1,$3901.12,General Purpose,AWS
+x2gd.metal,64.0,1024.0,2.5,$3901.12,,AWS
+x2gd.16xlarge,64.0,1024.0,2.5,$3901.12,,AWS
+n2d-standard-128,128.0,512.0,"AMD EPYC Rome, AMD EPYC Milan",$3947.47,standard,GCP
+r5a.24xlarge,96.0,768.0,2.5,$3959.52,General Purpose,AWS
+m5d.24xlarge,96.0,384.0,3.1,$3959.52,Memory-optimized,AWS
+i3en.12xlarge,48.0,384.0,3.1,$3959.52,,AWS
+m5d.metal,96.0,384.0,3.1,$3959.52,Memory-optimized,AWS
+c6i.32xlarge,128.0,256.0,3.5,$3971.20,Compute-optimized,AWS
+c6i.metal,128.0,256.0,3.5,$3971.20,Compute-optimized,AWS
+n2d-highmem-96,96.0,768.0,"AMD EPYC Rome, AMD EPYC Milan",$3993.86,highmem,GCP
+d2.8xlarge,36.0,244.0,2.4,$4029.60,,AWS
+m6a.32xlarge,128.0,512.0,2.95,$4036.61,Memory-optimized,AWS
+D96ads v5,0,Unknown,,$4078.51,General-purpose,Azure
+DC48s v3,0,Unknown,,$4137.64,General-purpose,Azure
+g5.12xlarge,48.0,192.0,2.8,$4140.56,,AWS
+n1-highmem-96,96.0,624.0,"Skylake, Broadwell, Haswell, Sandy Bridge, Ivy Bridge",$4148.74,highmem,GCP
+E80is v4,80.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$4157.35,Memory-optimized,Azure
+m5n.metal,96.0,384.0,3.1,$4169.76,Memory-optimized,AWS
+m5n.24xlarge,96.0,384.0,3.1,$4169.76,Memory-optimized,AWS
+im4gn.16xlarge,64.0,256.0,2.5,$4249.09,,AWS
+a2-highgpu-8g,96.0,680.0,Cascade Lake,$4318.55,highgpu,GCP
+r5.metal,96.0,768.0,3.1,$4415.04,General Purpose,AWS
+r5.24xlarge,96.0,768.0,3.1,$4415.04,General Purpose,AWS
+r6i.24xlarge,96.0,768.0,3.5,$4415.04,General Purpose,AWS
+D96d v5,0,Unknown,,$4474.17,General-purpose,Azure
+D96ds v5,0,Unknown,,$4474.17,General-purpose,Azure
+E96-24as v5,0,Unknown,,$4474.17,Memory-optimized,Azure
+E96-48as v5,0,Unknown,,$4474.17,Memory-optimized,Azure
+E96as v5,0,Unknown,,$4474.17,Memory-optimized,Azure
+m6i.metal,128.0,512.0,3.5,$4485.12,Memory-optimized,AWS
+m6i.32xlarge,128.0,512.0,3.5,$4485.12,Memory-optimized,AWS
+n2-standard-128,128.0,512.0,Ice Lake,$4537.35,standard,GCP
+L64s v2,64.0,512.0,AMD EPYC 7551,$4540.60,,Azure
+r5ad.24xlarge,96.0,768.0,2.5,$4590.24,General Purpose,AWS
+n2-highmem-96,96.0,768.0,Ice Lake,$4590.73,highmem,GCP
+m1-ultramem-40,40.0,961.0,"Skylake, Broadwell E5",$4593.96,ultramem,GCP
+d3en.12xlarge,48.0,192.0,3.1,$4605.31,,AWS
+M64ls,64.0,512.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$4739.89,,Azure
+E80ids v4,80.0,504.0,Intel Xeon Platinum 8272CL (Cascade Lake),$4751.57,Memory-optimized,Azure
+m5dn.24xlarge,96.0,384.0,3.1,$4765.44,Memory-optimized,AWS
+m5dn.metal,96.0,384.0,3.1,$4765.44,Memory-optimized,AWS
+x1.16xlarge,64.0,976.0,2.3,$4868.37,,AWS
+x2iedn.8xlarge,32.0,1024.0,3.5,$4868.37,,AWS
+x2idn.16xlarge,64.0,1024.0,3.5,$4868.37,,AWS
+x1e.8xlarge,32.0,976.0,2.3,$4870.56,,AWS
+x2iezn.8xlarge,32.0,1024.0,4.5,$4870.56,,AWS
+DC48ds v3,0,Unknown,,$4870.56,General-purpose,Azure
+i2.8xlarge,32.0,244.0,2.5,$4978.60,,AWS
+M32ms v2,32.0,875.0,Intel Xeon Platinum 8280 (Cascade Lake),$4982.98,,Azure
+E96 v5,0,Unknown,,$4988.82,Memory-optimized,Azure
+E96-24as v4,0,Unknown,,$4988.82,Memory-optimized,Azure
+E96-24s v5,0,Unknown,,$4988.82,Memory-optimized,Azure
+E96-48as v4,0,Unknown,,$4988.82,Memory-optimized,Azure
+E96-48s v5,0,Unknown,,$4988.82,Memory-optimized,Azure
+E96a v4,96.0,672.0,AMD 2.35 Ghz EPYC 7452,$4988.82,Memory-optimized,Azure
+E96as v4,96.0,672.0,AMD 2.35 Ghz EPYC 7452,$4988.82,Memory-optimized,Azure
+E96s v5,0,Unknown,,$4988.82,Memory-optimized,Azure
+c2d-highmem-112,112.0,896.0,AMD EPYC Milan 3rd Generation,$5006.22,highmem,GCP
+r5d.24xlarge,96.0,768.0,3.1,$5045.76,General Purpose,AWS
+r5d.metal,96.0,768.0,3.1,$5045.76,General Purpose,AWS
+NC12s v3,12.0,224.0,Intel Xeon E5-2690 v4 (Broadwell),$5048.68,,Azure
+M32-16ms,0,Unknown,,$5069.85,,Azure
+M32-8ms,0,Unknown,,$5069.85,,Azure
+M32dms v2,32.0,875.0,Intel Xeon Platinum 8280 (Cascade Lake),$5069.85,,Azure
+M32ms,32.0,875.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$5069.85,,Azure
+n2d-highcpu-224,224.0,224.0,"AMD EPYC Rome, AMD EPYC Milan",$5099.86,highcpu,GCP
+E96-24ads v5,0,Unknown,,$5186.65,Memory-optimized,Azure
+E96-48ads v5,0,Unknown,,$5186.65,Memory-optimized,Azure
+E96ads v5,0,Unknown,,$5186.65,Memory-optimized,Azure
+r5n.24xlarge,96.0,768.0,2.5,$5220.96,General Purpose,AWS
+r5b.24xlarge,96.0,768.0,3.1,$5220.96,General Purpose,AWS
+r5n.metal,96.0,768.0,2.5,$5220.96,General Purpose,AWS
+r5b.metal,96.0,768.0,3.1,$5220.96,General Purpose,AWS
+p2.8xlarge,32.0,488.0,2.3,$5256.00,,AWS
+M64s v2,64.0,1024.0,Intel Xeon Platinum 8280 (Cascade Lake),$5327.54,,Azure
+c6a.48xlarge,192.0,384.0,2.95,$5361.12,Compute-optimized,AWS
+c6a.metal,192.0,384.0,2.95,$5361.12,Compute-optimized,AWS
+M64,64.0,1024.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$5501.28,,Azure
+M64ds v2,64.0,1024.0,Intel Xeon Platinum 8280 (Cascade Lake),$5501.28,,Azure
+M64s,64.0,1024.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$5501.28,,Azure
+n2-highmem-128,128.0,864.0,Ice Lake,$5626.10,highmem,GCP
+L80s v2,80.0,640.0,AMD EPYC 7551,$5675.02,,Azure
+E96-24ds v5,0,Unknown,,$5702.03,Memory-optimized,Azure
+E96-48ds v5,0,Unknown,,$5702.03,Memory-optimized,Azure
+E96d v5,0,Unknown,,$5702.03,Memory-optimized,Azure
+E96ds v5,0,Unknown,,$5702.03,Memory-optimized,Azure
+g4dn.metal,96.0,384.0,2.5,$5711.52,,AWS
+r5dn.metal,96.0,768.0,3.1,$5851.68,General Purpose,AWS
+r5dn.24xlarge,96.0,768.0,3.1,$5851.68,General Purpose,AWS
+r6i.metal,128.0,1024.0,3.5,$5886.72,General Purpose,AWS
+r6i.32xlarge,128.0,1024.0,3.5,$5886.72,General Purpose,AWS
+g5.24xlarge,96.0,384.0,2.8,$5945.12,,AWS
+E104i v5,0,Unknown,,$5945.12,Memory-optimized,Azure
+E104is v5,0,Unknown,,$5945.12,Memory-optimized,Azure
+m6a.48xlarge,192.0,768.0,2.95,$6054.91,Memory-optimized,AWS
+m6a.metal,192.0,768.0,2.95,$6054.91,Memory-optimized,AWS
+a2-megagpu-16g,96.0,1360.0,Cascade Lake,$6421.80,megagpu,GCP
+E104id v5,0,Unknown,,$6794.84,Memory-optimized,Azure
+E104ids v5,0,Unknown,,$6794.84,Memory-optimized,Azure
+n2d-standard-224,224.0,896.0,"AMD EPYC Rome, AMD EPYC Milan",$6908.06,standard,GCP
+x2idn.24xlarge,96.0,1536.0,3.5,$7302.56,,AWS
+x2iezn.12xlarge,48.0,1536.0,4.5,$7305.84,,AWS
+x2iezn.metal,48.0,1536.0,4.5,$7305.84,,AWS
+m1-megamem-96,96.0,1433.6,"Cascade Lake, Broadwell E7",$7776.08,megamem,GCP
+i3en.metal,96.0,768.0,3.1,$7919.04,,AWS
+i3en.24xlarge,96.0,768.0,3.1,$7919.04,,AWS
+M64ms v2,64.0,1792.0,Intel Xeon Platinum 8280 (Cascade Lake),$8355.58,,Azure
+M64dms v2,64.0,1792.0,Intel Xeon Platinum 8280 (Cascade Lake),$8529.32,,Azure
+p3.8xlarge,32.0,244.0,2.3,$8935.20,,AWS
+m1-ultramem-80,80.0,1922.0,"Skylake, Broadwell E5",$9187.93,ultramem,GCP
+dl1.24xlarge,96.0,768.0,3.0,$9569.60,,AWS
+f1.16xlarge,64.0,976.0,2.3,$9636.00,,AWS
+x2idn.32xlarge,128.0,2048.0,3.5,$9736.74,,AWS
+x1.32xlarge,128.0,1952.0,2.3,$9736.74,,AWS
+x2iedn.16xlarge,64.0,2048.0,3.5,$9736.74,,AWS
+x1e.16xlarge,64.0,1952.0,2.3,$9741.12,,AWS
+NC24s v3,24.0,448.0,Intel Xeon E5-2690 v4 (Broadwell),$10096.63,,Azure
+p2.16xlarge,64.0,732.0,2.3,$10512.00,,AWS
+M128s v2,128.0,2048.0,Intel Xeon Platinum 8280 (Cascade Lake),$10657.27,,Azure
+M128,128.0,2048.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$11002.56,,Azure
+M128s,128.0,2048.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$11002.56,,Azure
+M128ds v2,128.0,2048.0,Intel Xeon Platinum 8280 (Cascade Lake),$11004.02,,Azure
+M64-16ms,0,Unknown,,$11007.67,,Azure
+M64-32ms,0,Unknown,,$11007.67,,Azure
+M64m,64.0,1792.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$11007.67,,Azure
+M64ms,64.0,1792.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$11007.67,,Azure
+NC24rs v3,24.0,448.0,Intel Xeon E5-2690 v4 (Broadwell),$11106.22,,Azure
+g5.48xlarge,192.0,768.0,2.8,$11890.24,,AWS
+M192is v2,192.0,2048.0,Intel Xeon Platinum 8280 (Cascade Lake),$12877.93,,Azure
+M192ids v2,192.0,2048.0,Intel Xeon Platinum 8280 (Cascade Lake),$13224.68,,Azure
+x2iedn.24xlarge,96.0,3072.0,3.5,$14605.11,,AWS
+p3.16xlarge,64.0,488.0,2.3,$17870.40,,AWS
+m1-ultramem-160,160.0,3844.0,"Skylake, Broadwell E5",$18375.85,ultramem,GCP
+M208s v2,208.0,2850.0,Intel Xeon Platinum 8180M 2.5GHz (Skylake),$18403.30,,Azure
+x2iedn.32xlarge,128.0,4096.0,3.5,$19473.48,,AWS
+x1e.32xlarge,128.0,3904.0,2.3,$19482.24,,AWS
+u-3tb1.56xlarge,224.0,3072.0,2.1,$19929.00,,AWS
+M128ms v2,128.0,3892.0,Intel Xeon Platinum 8280 (Cascade Lake),$21669.32,,Azure
+M128-32ms,0,Unknown,,$22014.61,,Azure
+M128-64ms,0,Unknown,,$22014.61,,Azure
+M128m,128.0,3892.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$22014.61,,Azure
+M128ms,2.0,128.0,"Intel Xeon CPU E7-8890 v3 2.50GHz, Intel Xeon Platinum 8280M (Cascade Lake)",$22014.61,,Azure
+M128dms v2,128.0,3892.0,Intel Xeon Platinum 8280 (Cascade Lake),$22016.80,,Azure
+p3dn.24xlarge,96.0,768.0,2.5,$22784.76,,AWS
+p4d.24xlarge,96.0,1152.0,3.0,$23924.00,,AWS
+M192ims v2,192.0,4096.0,Intel Xeon Platinum 8280 (Cascade Lake),$26102.61,,Azure
+M192idms v2,192.0,4096.0,Intel Xeon Platinum 8280 (Cascade Lake),$26449.36,,Azure
+ND96amsr A100 v4,0,Unknown,,$27031.90,,Azure
+m2-ultramem-208,208.0,5888.0,Cascade Lake,$27252.59,ultramem,GCP
+u-6tb1.56xlarge,224.0,6144.0,Unknown,$33874.85,,AWS
+M208ms v2,208.0,5700.0,Intel Xeon Platinum 8180M 2.5GHz (Skylake),$36807.33,,Azure
+u-6tb1.112xlarge,448.0,6144.0,Unknown,$39858.00,,AWS
+M416s v2,416.0,5700.0,Intel Xeon Platinum 8180M 2.5GHz (Skylake),$40898.25,,Azure
+m2-ultramem-416,416.0,11776.0,Cascade Lake,$54505.19,ultramem,GCP
+u-9tb1.112xlarge,448.0,9216.0,Unknown,$59787.00,,AWS
+u-12tb1.112xlarge,448.0,12288.0,Unknown,$79716.00,,AWS
+M416ms v2,416.0,11400.0,Intel Xeon Platinum 8180M 2.5GHz (Skylake),$81789.20,,Azure

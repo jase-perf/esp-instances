@@ -15,6 +15,26 @@
         #instance-table tr td:first-child {
             font-weight: bold;
         }
+
+        * {
+            font-family: canada-type-gibson, helvetica neue, Helvetica, Arial, sans-serif;
+
+        }
+
+        span,
+        th,
+        p {
+            color: #666;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #2f6db5
+        }
     </style>
 </head>
 <!-- Basic Template website -->
@@ -26,34 +46,35 @@
     <div class="container">
         <div class="row">
             <h1>
-                <center>Perforce ESP Instances</center>
+                <center>Helix Core Cloud Instances</center>
             </h1>
         </div>
         <div class="row" id="selectors">
             <div class="col">
                 <span class="label">
-                    Industry:
+                    Min. # of vCPUs:
                 </span>
-                <select id="vertical" name="industry" class="selectpicker">
-                    <option value="None" selected></option>
-                    <option value="Film">VFX / Virtual Production</option>
-                    <option value="Strategic">Software / Technical</option>
-                    <option value="Semiconductor">Semiconductor</option>
-                    <option value="Gaming">Gaming</option>
+                <select id="min_vcpus" class="selectpicker">
+                    <option value=0 selected>0</option>
+                    <option value=2>2</option>
+                    <option value=4>4</option>
+                    <option value=8>8</option>
+                    <option value=16>16</option>
                 </select>
             </div>
             <div class="col">
                 <span class="label">
-                    Number of Users:
+                    Min. GB of Memory:
                 </span>
-                <select id="users" class="selectpicker">
-                    <option value=5 selected>1-5</option>
-                    <option value=20>6-20</option>
-                    <option value=50>21-50</option>
-                    <option value=150>51-150</option>
-                    <option value=500>151-500</option>
-                    <option value=1000>501-1000</option>
-                    <option value=5000>1000+</option>
+                <select id="min_ram" class="selectpicker">
+                    <option value=0 selected>0</option>
+                    <option value=2>2</option>
+                    <option value=4>4</option>
+                    <option value=8>8</option>
+                    <option value=16>16</option>
+                    <option value=32>32</option>
+                    <option value=64>64</option>
+                    <option value=128>128</option>
                 </select>
             </div>
             <div class="col">
@@ -61,28 +82,11 @@
                     Cloud Provider:
                 </span>
                 <select id="cloud" class="selectpicker">
-                    <option value="AWS">AWS</option>
-                </select>
-            </div>
-        </div>
-        <div class="row mt-3">
-            <div class="col">
-                <span class="label">
-                    Average number of commits per user:
-                </span>
-                <select id="commits" class="selectpicker">
-                    <option value=5>1-5</option>
-                    <option value=20>5-20</option>
-                    <option value=100>20-100</option>
-                    <option value=200>100+</option>
-                </select>
-                <span class="label">
-                    per
-                </span>
-                <select id="frequency" class="selectpicker">
-                    <option value=1>Hour</option>
-                    <option value=.125 selected>Day</option>
-                    <option value=.025>Week</option>
+                    <option value="all" selected>All</option>
+                    <option value="AWS">Amazon AWS</option>
+                    <option value="GCP">Google Cloud Platform</option>
+                    <option value="Azure">Microsoft Azure</option>
+                    <option value="Digital Ocean">Digital Ocean</option>
                 </select>
             </div>
         </div>
